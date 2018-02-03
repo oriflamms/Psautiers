@@ -1,0 +1,1586 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Image zones for surf_Psautiers_315556101_MS0072_0130_N2</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Oriflamms project</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from Oriflamms XML-TEI transcription file</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2018-02-03">File created</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="../img/">
+        <surface xml:id="surf_imgPsautiers_315556101_MS0072_0130_N2">
+            <graphic url="315556101_MS0072_0130_N2.jpg"/>
+            <zone type="page" ulx="0" uly="0" lrx="5439" lry="4079" xml:id="zone-page_Psautiers_140">
+                <zone type="column" xml:id="zone-col_Psautiers_140_1">
+                    <zone type="line" xml:id="zone-line_Psautiers_col_Psautiers_140_1_1" ulx="1247" uly="770" lrx="2641" lry="875">
+                        <zone type="word" xml:id="zone-w_Psautiers_30935" ulx="1247" uly="773" lrx="1815" lry="874" points="1247,773 1246,787 1247,794 1248,799 1246,804 1248,810 1247,814 1245,820 1247,824 1248,827 1246,831 1248,837 1246,841 1248,845 1247,848 1247,851 1246,856 1248,864 1247,868 1246,872 1247,874 1815,874 1816,871 1815,866 1814,862 1815,856 1816,853 1816,847 1816,843 1815,836 1814,833 1815,829 1816,824 1816,821 1815,817 1816,814 1814,803 1816,791 1815,773">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30935_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30935_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30935_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30935_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30935_5"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30935_6"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30935_7"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_30936" ulx="1816" uly="781" lrx="1971" lry="875" points="1816,781 1815,783 1815,798 1817,801 1817,809 1816,813 1815,819 1817,823 1815,839 1816,843 1815,850 1816,854 1817,862 1816,865 1815,869 1816,875 1971,875 1968,872 1970,863 1972,860 1970,857 1972,847 1971,842 1972,836 1972,818 1971,814 1970,810 1971,781">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30936_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30936_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_30937" ulx="1972" uly="778" lrx="2074" lry="874" points="1972,778 1971,807 1972,813 1973,838 1972,842 1972,845 1972,848 1971,856 1971,865 1969,871 1972,874 2074,874 2074,873 2075,868 2079,864 2078,859 2075,850 2074,844 2075,835 2077,831 2079,827 2077,822 2076,817 2075,808 2074,797 2074,794 2072,790 2073,787 2073,784 2074,778">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30937_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30937_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_30938" ulx="2075" uly="770" lrx="2576" lry="872" points="2075,770 2074,783 2075,786 2074,794 2075,797 2075,801 2075,804 2076,817 2077,822 2079,827 2077,831 2075,835 2076,845 2078,849 2076,855 2078,859 2079,864 2075,868 2075,872 2576,872 2577,871 2576,867 2575,863 2570,857 2570,851 2570,847 2570,843 2572,838 2572,835 2570,828 2571,823 2572,819 2576,813 2575,809 2578,805 2578,802 2576,799 2578,796 2575,793 2577,790 2575,785 2576,781 2575,777 2576,770">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30938_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30938_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30938_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30938_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30938_5"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30938_6"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_30939" ulx="2577" uly="770" lrx="2641" lry="864" points="2577,770 2576,784 2576,787 2575,793 2578,796 2576,799 2578,802 2578,805 2575,809 2577,813 2572,819 2571,823 2570,828 2572,835 2572,838 2570,843 2570,847 2570,851 2570,857 2577,864 2641,864 2641,770">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30939_1"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_30940">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30940_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30940_2"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_Psautiers_col_Psautiers_140_1_2" ulx="1245" uly="893" lrx="2639" lry="1010">
+                        <zone type="word" xml:id="zone-w_Psautiers_30941" ulx="1245" uly="913" lrx="1401" lry="1007" points="1245,913 1246,920 1245,1007 1401,1007 1403,1003 1402,998 1401,990 1402,986 1400,982 1400,978 1400,951 1400,945 1401,942 1400,938 1400,927 1406,919 1401,913">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30941_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30941_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30941_3"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_30942" ulx="1402" uly="905" lrx="1949" lry="1010" points="1402,905 1404,916 1406,919 1401,927 1400,938 1402,942 1402,945 1401,950 1401,956 1401,959 1401,964 1403,978 1404,983 1402,987 1403,1003 1404,1006 1402,1010 1949,1010 1948,986 1948,983 1948,970 1950,943 1950,920 1949,905">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30942_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30942_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30942_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30942_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30942_5"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30942_6"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30942_7"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30942_8"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30942_9"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_30943" ulx="1950" uly="893" lrx="2639" lry="1000" points="1950,893 1952,895 1950,899 1949,911 1951,921 1949,939 1949,945 1951,969 1950,973 1949,995 1950,1000 2639,1000 2640,944 2640,927 2640,919 2639,893">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30943_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30943_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30943_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30943_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30943_5"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30943_6"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30943_7"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30943_8"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30943_9"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30943_10"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30943_11"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_Psautiers_col_Psautiers_140_1_3" ulx="1242" uly="1026" lrx="2675" lry="1132">
+                        <zone type="word" xml:id="zone-w_Psautiers_30944" ulx="1242" uly="1035" lrx="1426" lry="1129" points="1242,1035 1241,1049 1240,1055 1238,1058 1240,1062 1239,1066 1240,1082 1241,1086 1242,1090 1242,1098 1241,1102 1242,1105 1241,1108 1241,1111 1242,1129 1426,1129 1425,1128 1426,1114 1430,1109 1427,1103 1427,1063 1425,1060 1426,1056 1428,1053 1425,1047 1426,1035">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30944_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30944_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_30945" ulx="1427" uly="1035" lrx="1506" lry="1129" points="1427,1035 1429,1038 1427,1042 1428,1048 1428,1053 1428,1104 1430,1109 1427,1113 1427,1129 1506,1129 1505,1122 1505,1116 1505,1111 1506,1108 1506,1095 1505,1091 1505,1079 1505,1076 1506,1073 1505,1067 1505,1064 1497,1055 1505,1042 1505,1038 1506,1035">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30945_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30945_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30945_3"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_30946" ulx="1507" uly="1033" lrx="1982" lry="1132" points="1507,1033 1506,1038 1506,1043 1498,1055 1507,1065 1505,1069 1506,1073 1505,1076 1505,1079 1505,1091 1506,1095 1506,1108 1505,1115 1507,1119 1505,1122 1507,1130 1507,1132 1982,1132 1984,1130 1983,1127 1981,1124 1982,1112 1982,1108 1981,1103 1982,1067 1981,1057 1981,1053 1982,1039 1980,1035 1982,1033">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30946_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30946_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30946_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30946_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30946_5"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30946_6"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30946_7"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_30947" ulx="1983" uly="1026" lrx="2455" lry="1129" points="1983,1026 1984,1028 1980,1035 1983,1038 1983,1042 1982,1048 1982,1053 1980,1059 1983,1068 1982,1075 1983,1078 1982,1089 1982,1092 1982,1096 1981,1102 1980,1106 1984,1110 1984,1113 1983,1129 2455,1129 2456,1127 2459,1119 2456,1113 2456,1107 2455,1099 2457,1095 2455,1091 2455,1087 2455,1082 2456,1079 2456,1075 2458,1071 2455,1063 2457,1059 2456,1052 2454,1048 2456,1031 2455,1026">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30947_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30947_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30947_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30947_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30947_5"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30947_6"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30947_7"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_30948" ulx="2456" uly="1033" lrx="2675" lry="1128" points="2456,1033 2457,1056 2460,1061 2457,1068 2458,1071 2456,1075 2456,1079 2457,1087 2455,1093 2456,1096 2457,1104 2455,1110 2457,1115 2459,1119 2456,1127 2456,1128 2675,1128 2675,1102 2674,1098 2675,1065 2683,1054 2681,1050 2684,1047 2675,1033">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30948_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30948_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30948_3"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_Psautiers_col_Psautiers_140_1_4" ulx="1606" uly="1164" lrx="2657" lry="1269">
+                        <zone type="word" xml:id="zone-w_Psautiers_30949" ulx="1606" uly="1164" lrx="1669" lry="1258" points="1606,1164 1603,1173 1606,1177 1605,1186 1606,1190 1605,1196 1605,1199 1605,1204 1605,1217 1609,1229 1607,1233 1606,1241 1606,1258 1669,1258 1669,1242 1671,1235 1677,1229 1672,1224 1673,1220 1672,1210 1671,1202 1672,1198 1671,1193 1669,1186 1671,1177 1669,1173 1671,1167 1669,1164">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30949_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30949_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_30950" ulx="1670" uly="1164" lrx="2179" lry="1265" points="1670,1164 1671,1167 1671,1175 1672,1183 1672,1192 1670,1195 1672,1199 1672,1211 1674,1222 1677,1229 1671,1235 1671,1239 1670,1243 1671,1260 1670,1265 2179,1265 2179,1251 2179,1247 2186,1238 2179,1225 2181,1221 2179,1216 2174,1210 2179,1202 2181,1199 2179,1192 2167,1177 2179,1164">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30950_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30950_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30950_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30950_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30950_5"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30950_6"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30950_7"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30950_8"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_30951" ulx="2180" uly="1168" lrx="2255" lry="1264" points="2180,1168 2172,1177 2176,1182 2181,1191 2181,1199 2182,1212 2180,1217 2181,1223 2182,1234 2186,1238 2183,1242 2184,1245 2180,1250 2180,1264 2255,1264 2256,1256 2254,1247 2254,1244 2256,1241 2256,1237 2256,1234 2256,1230 2256,1226 2256,1221 2256,1216 2255,1205 2256,1201 2255,1187 2255,1183 2253,1179 2256,1174 2255,1168">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30951_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30951_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_30952" ulx="2256" uly="1171" lrx="2446" lry="1269" points="2256,1171 2253,1180 2256,1184 2256,1188 2255,1192 2257,1206 2256,1210 2257,1224 2255,1228 2255,1231 2259,1238 2256,1241 2255,1246 2256,1269 2446,1269 2445,1245 2446,1236 2447,1232 2448,1229 2447,1225 2447,1222 2449,1216 2448,1211 2448,1207 2447,1202 2449,1198 2448,1195 2447,1191 2448,1187 2445,1181 2446,1178 2448,1174 2446,1171">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30952_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30952_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30952_3"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_30953" ulx="2447" uly="1175" lrx="2657" lry="1269" points="2447,1175 2448,1177 2445,1181 2448,1186 2447,1191 2448,1195 2449,1198 2447,1202 2448,1207 2448,1211 2449,1216 2447,1222 2447,1225 2448,1229 2447,1233 2446,1239 2445,1245 2447,1249 2447,1252 2447,1269 2657,1269 2656,1265 2656,1249 2657,1235 2656,1232 2658,1223 2656,1217 2656,1214 2658,1183 2656,1177 2657,1175">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30953_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30953_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30953_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30953_4"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_Psautiers_col_Psautiers_140_1_5" ulx="1232" uly="1278" lrx="2679" lry="1378">
+                        <zone type="word" xml:id="zone-w_Psautiers_30954" ulx="1232" uly="1283" lrx="1658" lry="1378" points="1232,1283 1231,1286 1233,1290 1231,1294 1232,1299 1234,1306 1237,1312 1238,1315 1235,1321 1236,1329 1232,1337 1231,1372 1233,1377 1232,1378 1658,1378 1658,1377 1656,1373 1658,1370 1656,1359 1657,1355 1657,1349 1657,1345 1657,1327 1657,1324 1657,1318 1658,1301 1656,1297 1659,1287 1658,1283">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30954_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30954_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30954_3"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_30955" ulx="1659" uly="1283" lrx="1752" lry="1377" points="1659,1283 1658,1290 1658,1306 1661,1311 1658,1315 1657,1318 1659,1322 1660,1344 1656,1351 1657,1355 1656,1359 1658,1370 1659,1377 1752,1377 1751,1375 1752,1364 1757,1358 1755,1352 1755,1346 1754,1337 1753,1334 1753,1330 1755,1327 1751,1321 1752,1311 1754,1307 1753,1301 1752,1298 1751,1295 1751,1288 1752,1283">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30955_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30955_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_30956" ulx="1753" uly="1278" lrx="1967" lry="1376" points="1753,1278 1754,1297 1753,1300 1751,1303 1754,1307 1752,1310 1755,1314 1754,1319 1753,1323 1755,1327 1753,1330 1753,1334 1754,1337 1755,1346 1755,1352 1758,1358 1752,1364 1753,1376 1967,1376 1967,1371 1967,1366 1968,1361 1968,1355 1968,1352 1967,1349 1966,1343 1968,1336 1968,1332 1967,1313 1968,1310 1968,1307 1968,1303 1968,1299 1968,1295 1968,1287 1967,1278">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30956_1"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_30957" ulx="1968" uly="1278" lrx="2113" lry="1376" points="1968,1278 1967,1288 1967,1305 1967,1311 1967,1330 1967,1333 1967,1343 1967,1349 1967,1353 1967,1358 1967,1366 1969,1370 1967,1375 1968,1376 2113,1376 2113,1375 2114,1372 2112,1369 2114,1364 2111,1358 2112,1353 2113,1322 2112,1315 2112,1310 2114,1304 2114,1296 2113,1278">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30957_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30957_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30957_3"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_30958" ulx="2114" uly="1280" lrx="2249" lry="1376" points="2114,1280 2113,1308 2113,1312 2114,1322 2114,1327 2114,1346 2112,1352 2115,1358 2113,1361 2114,1364 2113,1370 2113,1374 2114,1376 2249,1376 2247,1372 2249,1367 2248,1364 2250,1358 2248,1354 2249,1350 2248,1344 2248,1339 2248,1335 2249,1329 2247,1324 2249,1310 2249,1306 2244,1301 2249,1288 2252,1283 2249,1280">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30958_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30958_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30958_3"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_30959" ulx="2250" uly="1278" lrx="2679" lry="1373" points="2250,1278 2256,1284 2250,1291 2244,1301 2249,1306 2249,1310 2250,1314 2250,1318 2247,1323 2250,1330 2249,1338 2248,1344 2250,1349 2249,1369 2250,1373 2679,1373 2680,1359 2680,1352 2680,1343 2679,1335 2678,1329 2678,1284 2679,1280 2679,1278">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30959_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30959_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_30960">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30960_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30960_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30960_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30960_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30960_5"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30960_6"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30960_7"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30960_8"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30960_9"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_Psautiers_col_Psautiers_140_1_6" ulx="1225" uly="1407" lrx="2629" lry="1519">
+                        <zone type="word" xml:id="zone-w_Psautiers_30961" ulx="1225" uly="1416" lrx="1536" lry="1511" points="1225,1416 1224,1422 1234,1433 1231,1442 1232,1446 1225,1454 1223,1459 1225,1463 1224,1488 1223,1493 1225,1497 1225,1500 1226,1503 1225,1511 1536,1511 1535,1504 1535,1499 1535,1494 1537,1489 1535,1479 1535,1476 1537,1472 1535,1465 1535,1452 1535,1445 1536,1441 1537,1431 1535,1421 1536,1416">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30961_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30961_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30961_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30961_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30961_5"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_30962" ulx="1537" uly="1407" lrx="1978" lry="1519" points="1537,1407 1536,1415 1536,1425 1537,1429 1536,1440 1538,1447 1536,1457 1536,1471 1535,1476 1537,1482 1536,1487 1539,1495 1537,1499 1537,1519 1978,1519 1979,1511 1976,1508 1977,1503 1977,1488 1977,1483 1979,1479 1978,1476 1980,1472 1977,1469 1979,1465 1976,1459 1978,1456 1976,1453 1979,1441 1975,1433 1976,1430 1977,1422 1977,1416 1977,1411 1978,1407">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30962_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30962_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30962_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30962_4"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_30963" ulx="1979" uly="1424" lrx="2114" lry="1519" points="1979,1424 1978,1439 1978,1447 1976,1452 1979,1457 1980,1461 1979,1464 1980,1472 1978,1476 1980,1484 1981,1490 1978,1495 1980,1511 1979,1519 2114,1519 2113,1496 2114,1490 2112,1484 2115,1478 2113,1441 2114,1432 2115,1427 2114,1424">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30963_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30963_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30963_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30963_4"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_30964" ulx="2115" uly="1407" lrx="2629" lry="1508" points="2115,1407 2117,1418 2118,1423 2115,1427 2114,1445 2115,1448 2116,1471 2114,1492 2115,1508 2629,1508 2628,1504 2629,1490 2625,1483 2627,1480 2627,1476 2626,1469 2626,1465 2626,1461 2629,1458 2623,1451 2626,1444 2628,1440 2628,1437 2621,1430 2627,1422 2628,1416 2632,1412 2629,1407">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30964_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30964_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30964_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30964_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30964_5"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30964_6"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30964_7"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_30965">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30965_1"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_Psautiers_col_Psautiers_140_1_7" ulx="1235" uly="1524" lrx="2648" lry="1639">
+                        <zone type="word" xml:id="zone-w_Psautiers_30966" ulx="1235" uly="1543" lrx="1586" lry="1639" points="1235,1543 1234,1559 1231,1565 1233,1569 1235,1574 1236,1577 1234,1581 1234,1584 1232,1591 1235,1597 1233,1609 1236,1614 1235,1617 1234,1620 1236,1623 1236,1634 1235,1639 1586,1639 1586,1613 1584,1609 1585,1605 1588,1601 1587,1597 1586,1591 1585,1577 1586,1565 1584,1561 1586,1552 1584,1549 1588,1545 1586,1543">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30966_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30966_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30966_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30966_4"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_30967" ulx="1587" uly="1534" lrx="1725" lry="1635" points="1587,1534 1590,1538 1589,1542 1587,1550 1585,1554 1587,1563 1586,1570 1587,1574 1585,1578 1587,1591 1587,1597 1588,1603 1589,1607 1586,1610 1587,1613 1587,1635 1725,1635 1725,1611 1727,1602 1728,1595 1728,1589 1727,1586 1725,1580 1725,1575 1727,1572 1726,1559 1725,1552 1726,1547 1725,1534">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30967_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30967_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30967_3"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_30968" ulx="1726" uly="1529" lrx="1795" lry="1625" points="1726,1529 1725,1537 1727,1540 1725,1544 1725,1552 1728,1556 1726,1560 1727,1572 1727,1583 1727,1587 1727,1590 1728,1594 1727,1602 1726,1610 1726,1625 1795,1625 1796,1612 1795,1605 1797,1601 1796,1594 1797,1589 1800,1585 1798,1582 1800,1579 1796,1571 1796,1567 1796,1553 1795,1547 1797,1543 1796,1536 1795,1529">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30968_1"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_30969" ulx="1796" uly="1528" lrx="2041" lry="1623" points="1796,1528 1795,1534 1797,1543 1796,1546 1797,1570 1800,1579 1798,1582 1800,1585 1797,1589 1796,1594 1797,1602 1795,1607 1796,1623 2041,1623 2042,1605 2041,1600 2042,1597 2040,1594 2041,1590 2039,1586 2040,1580 2041,1566 2040,1560 2040,1553 2041,1542 2041,1538 2040,1535 2039,1531 2041,1528">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30969_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30969_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30969_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30969_4"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_30970" ulx="2042" uly="1524" lrx="2648" lry="1622" points="2042,1524 2041,1527 2040,1535 2042,1539 2041,1545 2041,1553 2040,1561 2042,1565 2041,1574 2043,1584 2041,1594 2043,1599 2042,1622 2648,1622 2648,1621 2648,1617 2647,1614 2647,1564 2648,1560 2647,1556 2648,1543 2647,1539 2647,1530 2648,1524">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30970_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30970_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30970_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30970_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30970_5"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30970_6"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30970_7"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30970_8"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30970_9"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_Psautiers_col_Psautiers_140_1_8" ulx="1230" uly="1664" lrx="2664" lry="1770">
+                        <zone type="word" xml:id="zone-w_Psautiers_30971" ulx="1230" uly="1669" lrx="1953" lry="1770" points="1230,1669 1223,1677 1225,1680 1223,1685 1220,1690 1230,1703 1231,1713 1230,1717 1232,1720 1230,1723 1230,1727 1228,1735 1230,1739 1231,1743 1232,1747 1232,1752 1230,1755 1230,1759 1230,1763 1230,1770 1953,1770 1956,1766 1957,1761 1959,1758 1953,1746 1951,1741 1952,1737 1954,1727 1954,1722 1952,1718 1950,1715 1952,1710 1953,1704 1953,1700 1954,1696 1956,1691 1953,1680 1951,1676 1952,1671 1953,1669">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30971_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30971_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30971_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30971_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30971_5"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30971_6"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30971_7"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_30972" ulx="1954" uly="1668" lrx="2093" lry="1763" points="1954,1668 1952,1671 1954,1674 1954,1677 1954,1681 1953,1687 1957,1693 1954,1696 1954,1701 1953,1706 1952,1710 1950,1715 1952,1718 1954,1722 1954,1726 1953,1731 1954,1735 1954,1738 1954,1742 1956,1755 1959,1758 1954,1763 2093,1763 2092,1753 2092,1740 2094,1723 2092,1717 2092,1713 2092,1701 2092,1683 2094,1680 2094,1671 2093,1668">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30972_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30972_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30972_3"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_30973" ulx="2094" uly="1666" lrx="2327" lry="1762" points="2094,1666 2095,1671 2093,1713 2091,1716 2094,1722 2093,1725 2094,1762 2327,1762 2328,1726 2327,1722 2328,1716 2328,1703 2328,1687 2328,1680 2327,1666">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30973_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30973_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_30974" ulx="2328" uly="1664" lrx="2664" lry="1759" points="2328,1664 2327,1693 2329,1717 2327,1722 2328,1726 2328,1730 2327,1734 2328,1740 2328,1759 2664,1759 2664,1736 2663,1732 2663,1719 2663,1688 2663,1675 2664,1664">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30974_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30974_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30974_3"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_Psautiers_col_Psautiers_140_1_9" ulx="1238" uly="1771" lrx="2664" lry="1881">
+                        <zone type="word" xml:id="zone-w_Psautiers_30975" ulx="1238" uly="1781" lrx="1552" lry="1881" points="1238,1781 1239,1784 1236,1794 1239,1798 1237,1802 1239,1806 1237,1810 1236,1814 1238,1818 1237,1822 1233,1827 1237,1831 1238,1839 1236,1842 1238,1845 1239,1850 1236,1855 1239,1861 1237,1865 1238,1871 1237,1874 1239,1877 1238,1880 1238,1881 1552,1881 1551,1880 1551,1871 1552,1863 1553,1855 1551,1851 1552,1843 1551,1839 1552,1829 1551,1825 1550,1821 1550,1812 1552,1807 1552,1801 1552,1798 1551,1795 1551,1792 1552,1781">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30975_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30975_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_30976" ulx="1553" uly="1778" lrx="1752" lry="1875" points="1553,1778 1553,1780 1552,1786 1554,1792 1551,1797 1552,1800 1551,1804 1552,1807 1550,1812 1550,1821 1551,1825 1552,1829 1551,1838 1553,1841 1553,1849 1554,1863 1553,1875 1752,1875 1751,1871 1751,1863 1751,1859 1752,1854 1753,1851 1751,1848 1752,1824 1753,1818 1751,1812 1751,1798 1751,1795 1753,1791 1751,1784 1751,1780 1752,1778">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30976_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30976_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30976_3"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_30977" ulx="1753" uly="1772" lrx="1881" lry="1870" points="1753,1772 1752,1790 1751,1794 1754,1799 1752,1826 1754,1840 1752,1844 1753,1850 1751,1853 1753,1857 1752,1860 1752,1865 1753,1870 1881,1870 1880,1856 1880,1832 1880,1808 1881,1772">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30977_1"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_30978" ulx="1882" uly="1772" lrx="2195" lry="1869" points="1882,1772 1881,1810 1881,1816 1881,1840 1882,1869 2195,1869 2195,1840 2196,1837 2194,1834 2197,1831 2194,1828 2194,1824 2195,1808 2196,1805 2195,1800 2194,1796 2195,1772">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30978_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30978_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30978_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30978_4"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_30979" ulx="2196" uly="1771" lrx="2388" lry="1868" points="2196,1771 2195,1791 2195,1795 2194,1802 2197,1807 2195,1824 2198,1830 2197,1833 2196,1838 2196,1842 2196,1868 2388,1868 2387,1865 2387,1847 2388,1802 2389,1798 2390,1795 2388,1791 2389,1786 2388,1771">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30979_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30979_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_30980" ulx="2389" uly="1772" lrx="2664" lry="1867" points="2389,1772 2390,1789 2389,1792 2390,1795 2390,1845 2389,1850 2389,1867 2664,1867 2663,1847 2663,1840 2664,1818 2663,1813 2663,1807 2664,1792 2663,1789 2663,1786 2664,1772">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30980_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30980_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30980_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30980_4"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_Psautiers_col_Psautiers_140_1_10" ulx="1338" uly="1902" lrx="2612" lry="2020">
+                        <zone type="word" xml:id="zone-w_Psautiers_30981" ulx="1338" uly="1919" lrx="1640" lry="2020" points="1338,1919 1339,1922 1337,1927 1337,1961 1338,1964 1339,1969 1340,1972 1336,1979 1338,1983 1337,1986 1338,1990 1339,2002 1339,2006 1338,2010 1337,2017 1338,2020 1640,2020 1641,2016 1639,2010 1639,2007 1639,2002 1639,1993 1640,1988 1638,1984 1639,1979 1641,1974 1640,1970 1638,1966 1640,1959 1637,1954 1638,1946 1640,1943 1637,1939 1637,1935 1639,1931 1639,1923 1640,1919">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30981_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30981_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30981_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30981_4"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_30982" ulx="1641" uly="1905" lrx="1868" lry="2012" points="1641,1905 1642,1907 1643,1920 1640,1925 1639,1931 1641,1935 1639,1944 1639,1948 1637,1953 1640,1959 1641,1967 1640,1982 1640,1987 1641,1993 1640,1997 1641,2012 1868,2012 1867,2005 1867,2002 1868,1983 1871,1979 1870,1976 1869,1972 1867,1968 1867,1953 1868,1943 1866,1939 1868,1925 1867,1920 1868,1905">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30982_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30982_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30982_3"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_30983" ulx="1869" uly="1902" lrx="2014" lry="1998" points="1869,1902 1868,1917 1866,1922 1868,1926 1866,1939 1868,1943 1869,1947 1867,1953 1869,1959 1869,1963 1868,1966 1872,1975 1871,1978 1869,1982 1869,1998 2014,1998 2013,1984 2013,1981 2013,1976 2015,1971 2014,1930 2011,1926 2013,1922 2015,1911 2014,1902">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30983_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30983_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30983_3"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_30984" ulx="2015" uly="1902" lrx="2386" lry="2011" points="2015,1902 2014,1906 2014,1920 2016,1923 2016,1931 2016,1968 2015,1971 2015,1975 2015,1979 2014,1985 2016,1992 2014,1997 2016,2007 2015,2011 2386,2011 2385,1983 2386,1970 2385,1963 2385,1936 2385,1932 2387,1929 2386,1923 2385,1919 2386,1902">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30984_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30984_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30984_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30984_5"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30984_6"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_30985" ulx="2387" uly="1918" lrx="2612" lry="2012" points="2387,1918 2386,1952 2388,1964 2387,1968 2387,2012 2612,2012 2614,2008 2613,1996 2613,1991 2611,1972 2612,1964 2614,1958 2612,1954 2613,1950 2613,1943 2611,1939 2613,1936 2611,1927 2612,1918">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30985_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30985_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30985_3"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_Psautiers_col_Psautiers_140_1_11" ulx="1229" uly="2033" lrx="2417" lry="2140">
+                        <zone type="word" xml:id="zone-w_Psautiers_30986" ulx="1229" uly="2045" lrx="1378" lry="2139" points="1229,2045 1229,2139 1378,2139 1378,2138 1380,2131 1379,2128 1379,2120 1378,2113 1376,2104 1378,2101 1376,2087 1377,2084 1378,2079 1376,2074 1378,2069 1376,2065 1378,2061 1377,2055 1375,2051 1378,2045">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30986_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30986_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_30987" ulx="1379" uly="2043" lrx="1549" lry="2139" points="1379,2043 1377,2055 1379,2060 1379,2064 1378,2068 1376,2075 1378,2079 1377,2084 1376,2087 1379,2101 1379,2106 1378,2123 1379,2127 1380,2131 1379,2139 1549,2139 1549,2138 1550,2130 1548,2118 1549,2115 1548,2110 1547,2105 1548,2083 1548,2079 1548,2059 1548,2056 1549,2053 1546,2048 1549,2043">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30987_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30987_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30987_3"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_30988" ulx="1550" uly="2044" lrx="1619" lry="2139" points="1550,2044 1546,2049 1549,2053 1548,2056 1548,2059 1550,2065 1549,2073 1547,2080 1547,2106 1548,2110 1549,2115 1550,2119 1550,2123 1550,2139 1619,2139 1619,2130 1618,2127 1618,2120 1619,2110 1624,2103 1620,2095 1620,2075 1619,2070 1619,2066 1620,2054 1621,2048 1619,2044">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30988_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30988_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_30989" ulx="1620" uly="2034" lrx="1850" lry="2140" points="1620,2034 1619,2040 1621,2044 1620,2054 1621,2097 1624,2103 1619,2110 1619,2137 1620,2140 1850,2140 1849,2100 1849,2079 1849,2059 1851,2041 1850,2034">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30989_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30989_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30989_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30989_4"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_30990" ulx="1851" uly="2033" lrx="2258" lry="2132" points="1851,2033 1850,2055 1850,2071 1851,2132 2258,2132 2258,2106 2264,2098 2262,2092 2262,2087 2261,2082 2261,2074 2260,2058 2262,2054 2263,2048 2264,2045 2260,2036 2258,2033">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30990_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30990_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30990_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30990_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30990_5"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30990_6"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30990_7"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30990_8"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30990_9"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_30991" ulx="2259" uly="2043" lrx="2417" lry="2140" points="2259,2043 2263,2049 2262,2054 2260,2058 2261,2074 2261,2082 2262,2087 2262,2092 2264,2098 2259,2105 2259,2140 2417,2140 2417,2110 2419,2104 2423,2099 2419,2091 2418,2087 2418,2083 2416,2063 2418,2057 2417,2054 2419,2050 2418,2046 2417,2043">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30991_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30991_2"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_Psautiers_col_Psautiers_140_1_12" ulx="1231" uly="2161" lrx="2615" lry="2277">
+                        <zone type="word" xml:id="zone-w_Psautiers_30992" ulx="1231" uly="2161" lrx="1881" lry="2277" points="1231,2161 1230,2189 1232,2192 1232,2219 1230,2250 1230,2253 1230,2263 1231,2277 1881,2277 1880,2266 1881,2247 1879,2243 1880,2238 1880,2231 1881,2227 1882,2222 1884,2219 1882,2216 1885,2213 1881,2208 1884,2204 1882,2196 1884,2191 1883,2185 1883,2180 1881,2177 1881,2174 1876,2168 1881,2161">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30992_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30992_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30992_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30992_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30992_5"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30992_6"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30992_7"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30992_8"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30992_9"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30992_10"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30992_11"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30992_12"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_30993" ulx="1882" uly="2161" lrx="1931" lry="2257" points="1882,2161 1876,2168 1882,2175 1883,2180 1883,2186 1884,2190 1882,2196 1884,2204 1882,2208 1885,2213 1882,2216 1884,2219 1882,2222 1882,2227 1880,2231 1882,2235 1884,2242 1882,2246 1882,2257 1931,2257 1930,2240 1931,2161">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30993_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30993_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30993_3"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_30994" ulx="1932" uly="2164" lrx="2027" lry="2263" points="1932,2164 1931,2187 1932,2190 1931,2205 1931,2233 1932,2263 2027,2263 2027,2242 2027,2234 2029,2231 2026,2225 2028,2208 2027,2200 2024,2191 2025,2183 2027,2178 2026,2172 2028,2168 2027,2164">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30994_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-wp_Psautiers_30995_1" ulx="2028" uly="2163" lrx="2615" lry="2269" points="2028,2163 2029,2169 2026,2172 2029,2175 2026,2180 2025,2183 2028,2191 2025,2195 2028,2202 2027,2213 2027,2222 2029,2225 2029,2231 2028,2269 2615,2269 2616,2268 2616,2237 2615,2232 2623,2222 2622,2218 2620,2215 2621,2211 2621,2206 2620,2193 2618,2185 2617,2175 2619,2169 2615,2163">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30995_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30995_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30995_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30995_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30995_5"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30995_6"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_Psautiers_col_Psautiers_140_1_13" ulx="1229" uly="2290" lrx="2634" lry="2399">
+                        <zone type="word" xml:id="zone-wp_Psautiers_30995_2" ulx="1229" uly="2294" lrx="1323" lry="2388" points="1229,2294 1228,2311 1228,2350 1228,2382 1229,2388 1323,2388 1323,2370 1324,2365 1322,2361 1325,2358 1322,2351 1322,2336 1323,2319 1323,2315 1319,2310 1320,2304 1322,2298 1323,2294">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30995_7"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30995_8"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_30996" ulx="1324" uly="2294" lrx="1668" lry="2394" points="1324,2294 1323,2297 1325,2300 1320,2309 1324,2314 1324,2317 1323,2329 1324,2332 1324,2335 1323,2346 1322,2350 1324,2354 1326,2357 1324,2361 1324,2394 1668,2394 1668,2376 1668,2373 1669,2369 1672,2364 1669,2358 1671,2354 1670,2350 1671,2345 1672,2341 1671,2331 1670,2326 1668,2322 1670,2315 1672,2308 1669,2304 1671,2300 1668,2294">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30996_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30996_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30996_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30996_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30996_5"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_30997" ulx="1669" uly="2290" lrx="2212" lry="2399" points="1669,2290 1671,2295 1672,2299 1669,2303 1672,2308 1670,2315 1669,2320 1669,2328 1671,2332 1672,2340 1671,2345 1670,2350 1671,2354 1669,2358 1672,2364 1669,2369 1669,2399 2212,2399 2212,2369 2216,2364 2213,2357 2212,2314 2213,2310 2212,2306 2213,2301 2212,2290">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30997_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30997_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30997_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30997_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30997_5"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30997_6"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30997_7"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30997_8"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30997_9"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30997_10"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_30998" ulx="2213" uly="2296" lrx="2498" lry="2395" points="2213,2296 2214,2358 2216,2364 2213,2368 2212,2376 2213,2395 2498,2395 2498,2366 2499,2362 2499,2358 2496,2354 2498,2349 2497,2346 2497,2337 2497,2330 2499,2327 2498,2319 2497,2316 2499,2311 2498,2296">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30998_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30998_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30998_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30998_4"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_30999" ulx="2499" uly="2301" lrx="2634" lry="2395" points="2499,2301 2498,2306 2497,2316 2498,2319 2499,2325 2498,2344 2499,2349 2496,2353 2500,2358 2499,2395 2634,2395 2631,2387 2634,2378 2633,2374 2632,2365 2631,2361 2633,2357 2632,2345 2631,2342 2633,2330 2631,2325 2631,2319 2631,2315 2632,2307 2633,2303 2634,2301">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_30999_1"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_Psautiers_col_Psautiers_140_1_14" ulx="1217" uly="2421" lrx="2650" lry="2539">
+                        <zone type="word" xml:id="zone-w_Psautiers_31000" ulx="1217" uly="2421" lrx="1464" lry="2515" points="1217,2421 1216,2441 1217,2450 1216,2457 1216,2462 1218,2467 1218,2471 1215,2481 1215,2488 1219,2494 1217,2498 1216,2512 1217,2515 1464,2515 1464,2511 1463,2506 1462,2502 1463,2498 1465,2493 1462,2481 1464,2476 1463,2472 1466,2468 1463,2462 1463,2458 1465,2449 1463,2444 1464,2440 1464,2436 1463,2432 1460,2428 1464,2423 1464,2421">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31000_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31000_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31000_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31000_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31000_5"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31001" ulx="1464" uly="2421" lrx="1638" lry="2516" points="1464,2421 1464,2423 1460,2428 1463,2432 1464,2436 1464,2440 1463,2444 1465,2449 1463,2458 1463,2462 1466,2468 1463,2472 1464,2476 1462,2481 1465,2493 1463,2498 1462,2502 1463,2506 1464,2511 1464,2514 1464,2516 1638,2516 1638,2511 1637,2507 1640,2502 1638,2499 1639,2490 1640,2486 1641,2481 1643,2477 1640,2472 1641,2469 1640,2465 1643,2461 1641,2457 1642,2450 1642,2447 1638,2436 1640,2427 1638,2421">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31001_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31001_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31001_3"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31002" ulx="1639" uly="2422" lrx="2449" lry="2539" points="1639,2422 1640,2427 1640,2434 1638,2438 1642,2446 1641,2449 1641,2457 1643,2461 1640,2465 1641,2469 1640,2472 1643,2477 1641,2481 1640,2486 1639,2490 1639,2498 1640,2503 1640,2509 1640,2515 1640,2520 1640,2529 1638,2533 1639,2539 2449,2539 2448,2507 2450,2488 2450,2447 2447,2441 2448,2437 2449,2434 2448,2430 2449,2422">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31002_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31002_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31002_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31002_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31002_5"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31002_6"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31002_7"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31002_8"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31002_9"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31002_10"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31002_11"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31003" ulx="2450" uly="2422" lrx="2650" lry="2516" points="2450,2422 2451,2431 2447,2436 2450,2441 2450,2444 2450,2516 2650,2516 2649,2494 2650,2480 2649,2477 2652,2471 2650,2463 2653,2458 2656,2449 2657,2430 2650,2422">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31003_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31003_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31003_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31003_4"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_Psautiers_col_Psautiers_140_1_15" ulx="1210" uly="2551" lrx="2649" lry="2656">
+                        <zone type="word" xml:id="zone-w_Psautiers_31004" ulx="1210" uly="2562" lrx="1449" lry="2656" points="1210,2562 1211,2571 1208,2574 1210,2578 1209,2588 1208,2595 1210,2599 1204,2609 1208,2614 1209,2618 1208,2622 1210,2626 1211,2630 1210,2634 1210,2656 1449,2656 1450,2652 1448,2648 1448,2640 1449,2632 1448,2628 1449,2624 1448,2621 1448,2616 1448,2608 1450,2604 1450,2596 1448,2592 1450,2583 1448,2575 1449,2569 1450,2566 1449,2562">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31004_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31005" ulx="1450" uly="2557" lrx="1808" lry="2656" points="1450,2557 1448,2560 1451,2566 1449,2574 1449,2578 1451,2581 1449,2592 1449,2616 1451,2621 1449,2628 1449,2647 1450,2651 1450,2656 1808,2656 1807,2648 1807,2639 1807,2631 1807,2627 1808,2624 1805,2618 1807,2613 1808,2609 1807,2604 1807,2589 1808,2574 1808,2570 1805,2566 1808,2557">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31005_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31005_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31005_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31005_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31005_5"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31005_6"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31005_7"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31006" ulx="1809" uly="2553" lrx="2006" lry="2650" points="1809,2553 1808,2561 1808,2565 1808,2570 1808,2578 1809,2583 1809,2589 1807,2604 1808,2609 1807,2613 1805,2618 1809,2623 1809,2627 1808,2644 1808,2647 1809,2650 2006,2650 2007,2607 2005,2599 2007,2596 2005,2592 2007,2567 2006,2553">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31006_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31006_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31007" ulx="2007" uly="2553" lrx="2375" lry="2656" points="2007,2553 2006,2575 2008,2578 2008,2593 2008,2599 2006,2602 2008,2628 2006,2655 2007,2656 2375,2656 2376,2639 2376,2635 2374,2623 2375,2615 2376,2611 2373,2607 2374,2602 2376,2598 2375,2593 2376,2587 2375,2579 2376,2573 2376,2556 2375,2553">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31007_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31007_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31007_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31007_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31007_5"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31007_6"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31007_7"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31008" ulx="2376" uly="2551" lrx="2649" lry="2653" points="2376,2551 2376,2553 2375,2570 2375,2579 2375,2583 2375,2608 2375,2618 2375,2631 2375,2647 2376,2653 2649,2653 2648,2647 2648,2615 2648,2607 2649,2602 2651,2598 2648,2593 2648,2590 2649,2551">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31008_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31008_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31008_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31008_4"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_Psautiers_col_Psautiers_140_1_16" ulx="1189" uly="2686" lrx="2664" lry="2789">
+                        <zone type="word" xml:id="zone-w_Psautiers_31009" ulx="1189" uly="2692" lrx="1659" lry="2789" points="1189,2692 1188,2705 1189,2713 1188,2781 1189,2789 1659,2789 1659,2754 1660,2745 1660,2694 1659,2692">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31009_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31009_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31009_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31009_4"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31010" ulx="1660" uly="2692" lrx="1769" lry="2786" points="1660,2692 1659,2759 1660,2786 1769,2786 1769,2761 1767,2757 1770,2748 1770,2743 1771,2739 1770,2736 1771,2720 1771,2717 1771,2713 1773,2703 1774,2700 1773,2697 1769,2692">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31010_1"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31011" ulx="1770" uly="2689" lrx="2223" lry="2786" points="1770,2689 1773,2697 1774,2700 1773,2703 1771,2713 1771,2717 1771,2720 1770,2736 1771,2739 1770,2743 1770,2748 1769,2755 1769,2758 1770,2761 1770,2786 2223,2786 2223,2778 2224,2774 2224,2757 2223,2746 2223,2742 2222,2737 2222,2719 2222,2712 2222,2703 2224,2699 2224,2695 2224,2692 2223,2689">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31011_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31011_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31011_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31011_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31011_5"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31011_6"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31011_7"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31012" ulx="2224" uly="2688" lrx="2320" lry="2782" points="2224,2688 2225,2690 2223,2694 2223,2697 2223,2701 2223,2711 2223,2716 2223,2722 2223,2732 2223,2736 2223,2742 2224,2745 2223,2753 2224,2757 2223,2761 2223,2771 2224,2782 2320,2782 2319,2780 2319,2770 2320,2753 2319,2749 2320,2745 2319,2741 2319,2735 2319,2729 2319,2721 2320,2718 2319,2714 2319,2709 2320,2700 2320,2696 2318,2691 2320,2688">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31012_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31012_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31013" ulx="2321" uly="2687" lrx="2392" lry="2782" points="2321,2687 2319,2694 2321,2697 2321,2701 2321,2704 2320,2719 2320,2736 2321,2739 2320,2767 2320,2775 2321,2782 2392,2782 2392,2779 2392,2775 2392,2770 2391,2765 2392,2757 2395,2752 2398,2748 2393,2737 2392,2729 2393,2721 2393,2717 2392,2710 2394,2705 2396,2701 2396,2697 2391,2691 2392,2687">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31013_1"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31014" ulx="2393" uly="2686" lrx="2664" lry="2781" points="2393,2686 2391,2691 2396,2697 2396,2701 2394,2705 2393,2710 2394,2744 2398,2748 2395,2752 2393,2756 2392,2768 2393,2781 2664,2781 2663,2765 2664,2760 2664,2753 2667,2740 2665,2736 2663,2718 2663,2712 2663,2704 2663,2701 2664,2688 2664,2686">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31014_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31014_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31014_3"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31015">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31015_1"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_Psautiers_col_Psautiers_140_1_17" ulx="1205" uly="2806" lrx="2648" lry="2922">
+                        <zone type="word" xml:id="zone-w_Psautiers_31016" ulx="1205" uly="2806" lrx="1814" lry="2905" points="1205,2806 1206,2808 1204,2816 1204,2831 1204,2839 1204,2843 1204,2848 1206,2882 1205,2886 1204,2895 1205,2905 1814,2905 1815,2887 1813,2884 1814,2878 1816,2874 1814,2868 1816,2862 1815,2855 1813,2852 1815,2849 1813,2842 1812,2834 1813,2825 1815,2809 1814,2806">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31016_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31016_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31016_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31016_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31016_5"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31016_6"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31016_7"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31016_8"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31016_9"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31016_10"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31016_11"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31017" ulx="1815" uly="2812" lrx="1984" lry="2910" points="1815,2812 1816,2815 1814,2822 1816,2825 1812,2833 1813,2841 1816,2852 1815,2855 1815,2860 1815,2869 1816,2873 1815,2877 1814,2882 1816,2885 1814,2890 1815,2895 1815,2910 1984,2910 1983,2909 1983,2904 1984,2898 1985,2894 1983,2877 1985,2874 1983,2871 1983,2865 1983,2862 1983,2856 1984,2847 1984,2843 1983,2840 1983,2837 1983,2831 1985,2826 1984,2812">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31017_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31018" ulx="1985" uly="2820" lrx="2327" lry="2922" points="1985,2820 1984,2858 1984,2868 1984,2880 1984,2883 1985,2887 1984,2897 1983,2904 1986,2911 1985,2922 2327,2922 2328,2917 2328,2895 2328,2892 2328,2888 2327,2883 2327,2879 2325,2876 2326,2872 2327,2869 2327,2864 2327,2858 2326,2853 2326,2839 2328,2835 2328,2822 2327,2820">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31018_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31018_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31018_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31018_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31018_5"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31018_6"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31019" ulx="2328" uly="2825" lrx="2475" lry="2920" points="2328,2825 2327,2828 2328,2835 2327,2839 2327,2843 2329,2850 2326,2860 2329,2869 2328,2875 2326,2880 2328,2884 2328,2888 2327,2912 2328,2920 2475,2920 2476,2898 2474,2831 2475,2825">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31019_1"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31020" ulx="2476" uly="2826" lrx="2648" lry="2922" points="2476,2826 2475,2829 2475,2856 2475,2861 2475,2869 2476,2922 2648,2922 2647,2915 2647,2898 2649,2895 2647,2887 2655,2875 2642,2855 2640,2851 2642,2848 2641,2845 2643,2841 2641,2838 2643,2832 2648,2826">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31020_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31020_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-pc_Psautiers_10">
+                            <zone type="character" xml:id="zone-c_pc_Psautiers_10_1"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-wp_Psautiers_31021_1">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31021_1"/>
+                        </zone>
+                    </zone>
+                </zone>
+            </zone>
+            <zone type="page" ulx="0" uly="0" lrx="5439" lry="4079" xml:id="zone-page_Psautiers_141">
+                <zone type="column" xml:id="zone-col_Psautiers_141_1">
+                    <zone type="line" xml:id="zone-line_Psautiers_col_Psautiers_141_1_1" ulx="2955" uly="776" lrx="4407" lry="884">
+                        <zone type="word" xml:id="zone-wp_Psautiers_31021_2" ulx="2955" uly="780" lrx="3167" lry="884" points="2955,780 2955,884 3167,884 3168,873 3168,865 3166,858 3168,854 3167,848 3168,842 3168,831 3168,823 3167,820 3166,817 3168,805 3168,785 3167,780">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31021_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31021_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31021_4"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31022" ulx="3168" uly="776" lrx="3654" lry="881" points="3168,776 3167,791 3167,810 3168,813 3168,817 3167,829 3167,847 3167,851 3168,855 3167,877 3168,880 3168,881 3654,881 3653,870 3653,838 3653,834 3654,828 3654,825 3652,821 3650,817 3654,811 3655,808 3654,787 3653,784 3654,776">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31022_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31022_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31022_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31022_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31022_5"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31022_6"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31022_7"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31022_8"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31022_9"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31023" ulx="3655" uly="783" lrx="3848" lry="880" points="3655,783 3656,786 3655,792 3654,812 3650,817 3655,824 3654,828 3656,836 3656,841 3656,845 3656,860 3656,869 3654,872 3655,880 3848,880 3847,871 3847,866 3850,860 3848,854 3848,851 3848,847 3847,844 3849,815 3847,811 3847,800 3848,783">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31023_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31023_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31023_3"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31024" ulx="3849" uly="782" lrx="4407" lry="877" points="3849,782 3848,810 3848,816 3850,848 3849,851 3848,854 3849,857 3851,861 3850,864 3848,868 3848,875 3849,877 4407,877 4408,863 4408,858 4406,855 4409,851 4406,848 4406,837 4408,832 4408,819 4406,812 4408,807 4407,799 4405,795 4408,784 4407,782">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31024_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31024_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31024_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31024_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31024_5"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31024_6"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31024_7"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31024_8"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_Psautiers_col_Psautiers_141_1_2" ulx="2975" uly="909" lrx="4434" lry="1017">
+                        <zone type="word" xml:id="zone-w_Psautiers_31025" ulx="2975" uly="909" lrx="3048" lry="1003" points="2975,909 2976,911 2976,920 2976,931 2974,952 2976,959 2974,963 2974,967 2976,976 2974,980 2975,986 2976,998 2976,1001 2975,1003 3048,1003 3047,1002 3047,996 3047,992 3047,982 3048,978 3048,972 3047,968 3043,963 3047,959 3047,944 3047,932 3049,928 3048,923 3047,917 3047,911 3048,909">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31025_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31025_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31026" ulx="3049" uly="909" lrx="3500" lry="1013" points="3049,909 3048,912 3048,927 3048,935 3048,955 3043,963 3047,968 3049,973 3048,985 3048,989 3049,992 3047,996 3047,1002 3050,1007 3049,1013 3500,1013 3499,1003 3499,954 3501,951 3501,945 3501,937 3499,928 3500,909">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31026_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31026_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31026_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31026_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31026_5"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31026_6"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31027" ulx="3501" uly="909" lrx="3932" lry="1017" points="3501,909 3500,943 3500,976 3500,1001 3502,1007 3501,1017 3932,1017 3932,1011 3931,1008 3932,1001 3940,992 3939,989 3933,979 3931,975 3931,963 3932,957 3930,953 3930,950 3932,945 3929,939 3933,931 3932,926 3929,920 3933,915 3931,912 3932,909">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31027_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31027_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31027_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31027_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31027_5"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31027_6"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31027_7"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31028" ulx="3933" uly="909" lrx="4107" lry="1008" points="3933,909 3934,912 3935,917 3930,923 3933,928 3932,934 3933,938 3930,950 3930,953 3933,958 3933,962 3933,967 3933,971 3934,976 3932,981 3939,989 3940,992 3933,1000 3933,1008 4107,1008 4107,986 4107,981 4109,978 4106,974 4107,970 4106,959 4104,951 4105,945 4103,941 4104,937 4106,929 4107,909">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31028_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31028_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31028_3"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-wp_Psautiers_31029_1" ulx="4108" uly="915" lrx="4434" lry="1009" points="4108,915 4109,928 4105,934 4103,940 4105,945 4104,951 4106,959 4107,970 4106,973 4109,979 4109,983 4108,1009 4434,1009 4433,973 4435,970 4433,951 4435,946 4434,941 4432,938 4434,928 4432,924 4434,915">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31029_1"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_Psautiers_col_Psautiers_141_1_3" ulx="2965" uly="1022" lrx="4370" lry="1147">
+                        <zone type="word" xml:id="zone-wp_Psautiers_31029_2" ulx="2965" uly="1040" lrx="3500" lry="1146" points="2965,1040 2964,1052 2964,1060 2965,1064 2964,1093 2965,1097 2964,1101 2964,1104 2964,1140 2964,1145 2965,1146 3500,1146 3501,1144 3500,1133 3507,1125 3506,1120 3503,1115 3501,1111 3502,1107 3500,1103 3502,1099 3500,1089 3500,1080 3500,1076 3500,1071 3501,1068 3504,1060 3499,1054 3500,1040">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31029_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31029_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31029_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31029_5"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31029_6"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31030" ulx="3501" uly="1029" lrx="3904" lry="1147" points="3501,1029 3502,1052 3504,1060 3501,1068 3501,1074 3502,1099 3502,1107 3501,1111 3503,1115 3506,1120 3507,1125 3504,1129 3501,1136 3501,1147 3904,1147 3905,1143 3903,1139 3904,1132 3903,1128 3899,1118 3894,1110 3896,1101 3894,1097 3895,1094 3895,1091 3897,1087 3892,1081 3892,1078 3897,1071 3885,1058 3894,1049 3903,1032 3904,1029">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31030_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31030_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31030_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31030_4"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31031" ulx="3905" uly="1022" lrx="4129" lry="1123" points="3905,1022 3904,1038 3885,1058 3897,1071 3892,1078 3892,1081 3897,1087 3895,1091 3895,1094 3894,1097 3896,1101 3894,1110 3905,1123 4129,1123 4128,1120 4130,1117 4128,1114 4129,1110 4129,1107 4131,1104 4130,1082 4134,1070 4132,1064 4130,1057 4132,1054 4128,1049 4129,1045 4127,1039 4129,1034 4129,1030 4132,1025 4129,1022">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31031_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31031_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31031_3"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31032" ulx="4130" uly="1022" lrx="4370" lry="1116" points="4130,1022 4136,1028 4130,1035 4129,1048 4132,1054 4130,1057 4132,1064 4134,1070 4130,1082 4131,1104 4130,1108 4129,1112 4131,1115 4130,1116 4370,1116 4367,1112 4370,1106 4372,1102 4372,1098 4367,1090 4367,1086 4370,1082 4365,1076 4366,1072 4368,1067 4365,1061 4356,1050 4368,1038 4371,1025 4370,1022">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31032_1"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31033">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31033_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31033_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31033_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31033_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31033_5"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31033_6"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31033_7"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31033_8"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_Psautiers_col_Psautiers_141_1_4" ulx="3098" uly="1146" lrx="4388" lry="1258">
+                        <zone type="word" xml:id="zone-w_Psautiers_31034" ulx="3098" uly="1162" lrx="3227" lry="1258" points="3098,1162 3096,1174 3093,1177 3093,1180 3098,1186 3103,1199 3103,1202 3104,1209 3102,1213 3104,1221 3102,1225 3103,1238 3103,1241 3103,1248 3098,1257 3098,1258 3227,1258 3230,1255 3227,1249 3227,1243 3229,1238 3228,1235 3228,1232 3228,1196 3226,1192 3227,1189 3227,1183 3229,1176 3231,1170 3230,1166 3227,1162">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31034_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31034_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31034_3"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31035" ulx="3228" uly="1158" lrx="3551" lry="1255" points="3228,1158 3231,1165 3232,1172 3229,1176 3228,1182 3226,1192 3228,1196 3228,1200 3229,1233 3230,1237 3231,1244 3232,1248 3229,1253 3228,1255 3551,1255 3552,1253 3552,1244 3552,1241 3552,1237 3552,1228 3552,1220 3552,1212 3551,1205 3550,1201 3542,1191 3545,1185 3550,1180 3551,1158">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31035_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31035_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31035_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31035_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31035_5"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31035_6"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31036" ulx="3552" uly="1146" lrx="4388" lry="1258" points="3552,1146 3551,1151 3551,1161 3551,1177 3542,1191 3552,1204 3552,1210 3551,1215 3551,1223 3552,1227 3551,1233 3552,1237 3553,1241 3552,1244 3552,1247 3552,1258 4388,1258 4387,1215 4387,1200 4387,1191 4387,1185 4387,1182 4387,1176 4388,1161 4387,1157 4387,1154 4388,1146">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31036_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31036_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31036_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31036_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31036_5"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31036_6"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31036_7"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31036_8"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31036_9"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31036_10"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31036_11"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_Psautiers_col_Psautiers_141_1_5" ulx="2967" uly="1274" lrx="4397" lry="1400">
+                        <zone type="word" xml:id="zone-w_Psautiers_31037" ulx="2967" uly="1280" lrx="3476" lry="1400" points="2967,1280 2968,1283 2968,1290 2968,1301 2967,1304 2966,1315 2966,1319 2967,1322 2966,1326 2964,1330 2968,1335 2966,1339 2965,1343 2967,1347 2965,1352 2967,1356 2966,1359 2968,1363 2967,1367 2968,1371 2967,1375 2966,1385 2967,1388 2968,1397 2967,1400 3476,1400 3476,1393 3479,1386 3479,1383 3482,1379 3477,1372 3476,1345 3480,1334 3483,1331 3474,1319 3481,1311 3475,1300 3476,1280">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31037_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31037_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31037_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31037_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31037_5"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31038" ulx="3477" uly="1294" lrx="3682" lry="1400" points="3477,1294 3476,1296 3476,1301 3481,1307 3482,1311 3474,1319 3483,1331 3480,1334 3477,1343 3478,1370 3482,1379 3479,1383 3479,1386 3477,1392 3477,1400 3682,1400 3682,1379 3683,1374 3686,1370 3681,1364 3683,1319 3681,1314 3681,1310 3682,1294">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31038_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31038_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31038_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31038_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31038_5"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31039" ulx="3683" uly="1274" lrx="3932" lry="1388" points="3683,1274 3682,1307 3680,1311 3683,1320 3682,1327 3682,1336 3682,1351 3682,1355 3682,1361 3682,1364 3686,1370 3683,1374 3683,1378 3683,1388 3932,1388 3931,1384 3931,1361 3932,1320 3931,1317 3931,1311 3932,1274">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31039_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31039_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31039_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31039_4"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31040" ulx="3933" uly="1274" lrx="4261" lry="1372" points="3933,1274 3932,1311 3932,1317 3932,1321 3934,1345 3934,1360 3933,1372 4261,1372 4263,1367 4264,1364 4262,1360 4261,1332 4262,1327 4261,1312 4263,1308 4261,1304 4260,1301 4260,1296 4261,1274">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31040_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31040_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31040_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31040_4"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-wp_Psautiers_31041_1" ulx="4262" uly="1278" lrx="4397" lry="1372" points="4262,1278 4261,1298 4263,1303 4263,1309 4262,1313 4264,1321 4262,1325 4263,1330 4262,1334 4262,1337 4263,1340 4261,1343 4263,1363 4262,1366 4262,1372 4397,1372 4397,1366 4400,1361 4400,1358 4401,1354 4400,1345 4401,1342 4401,1336 4399,1330 4399,1327 4400,1319 4402,1315 4400,1310 4398,1303 4399,1297 4396,1285 4396,1280 4397,1278">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31041_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31041_2"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_Psautiers_col_Psautiers_141_1_6" ulx="2965" uly="1394" lrx="4398" lry="1498">
+                        <zone type="word" xml:id="zone-wp_Psautiers_31041_2" ulx="2965" uly="1398" lrx="3353" lry="1494" points="2965,1398 2966,1400 2966,1423 2964,1461 2962,1466 2965,1470 2965,1475 2965,1494 3353,1494 3354,1493 3354,1487 3353,1455 3356,1449 3354,1443 3353,1398">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31041_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31041_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31041_5"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31042" ulx="3354" uly="1395" lrx="3708" lry="1497" points="3354,1395 3355,1446 3356,1450 3354,1455 3354,1497 3708,1497 3708,1496 3711,1492 3708,1481 3709,1478 3709,1474 3708,1436 3707,1431 3707,1399 3708,1395">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31042_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31042_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31042_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31042_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31042_5"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31042_6"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31043" ulx="3709" uly="1401" lrx="3855" lry="1498" points="3709,1401 3708,1431 3708,1437 3708,1440 3709,1445 3708,1457 3708,1465 3708,1485 3708,1489 3711,1492 3710,1495 3709,1498 3855,1498 3856,1496 3856,1493 3855,1489 3853,1484 3852,1481 3854,1476 3854,1472 3852,1468 3853,1463 3855,1458 3853,1453 3855,1445 3855,1438 3849,1432 3852,1425 3856,1415 3855,1401">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31043_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31043_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31043_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31043_4"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31044" ulx="3856" uly="1394" lrx="4215" lry="1493" points="3856,1394 3855,1419 3856,1422 3853,1426 3849,1432 3856,1439 3856,1442 3856,1447 3853,1453 3855,1458 3853,1463 3852,1468 3854,1472 3854,1476 3852,1480 3856,1485 3855,1488 3856,1493 4215,1493 4216,1491 4214,1487 4216,1480 4216,1473 4215,1463 4216,1459 4214,1452 4216,1448 4215,1444 4212,1439 4214,1432 4216,1427 4216,1423 4216,1412 4215,1394">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31044_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31044_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31044_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31044_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31044_5"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31044_6"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31044_7"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31044_8"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31044_9"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31045" ulx="4216" uly="1395" lrx="4398" lry="1489" points="4216,1395 4215,1417 4215,1432 4212,1439 4216,1446 4217,1452 4215,1464 4216,1489 4398,1489 4398,1486 4400,1483 4397,1480 4400,1477 4398,1471 4399,1465 4391,1453 4391,1447 4392,1435 4393,1429 4392,1423 4392,1415 4396,1405 4397,1401 4399,1397 4398,1395">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31045_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31045_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31045_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31045_4"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_Psautiers_col_Psautiers_141_1_7" ulx="2964" uly="1519" lrx="4374" lry="1623">
+                        <zone type="word" xml:id="zone-w_Psautiers_31046" ulx="2964" uly="1519" lrx="3908" lry="1623" points="2964,1519 2963,1543 2964,1549 2964,1553 2963,1593 2962,1599 2962,1602 2964,1606 2964,1609 2963,1612 2962,1617 2964,1622 2964,1623 3908,1623 3898,1612 3898,1609 3899,1605 3900,1602 3898,1598 3899,1594 3897,1590 3899,1586 3900,1582 3904,1577 3904,1559 3907,1552 3907,1535 3908,1519">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31046_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31046_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31046_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31046_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31046_5"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31046_6"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31046_7"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31046_8"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31046_9"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31047" ulx="3909" uly="1520" lrx="4246" lry="1623" points="3909,1520 3908,1551 3908,1554 3904,1559 3904,1577 3900,1582 3899,1586 3897,1590 3899,1594 3898,1598 3900,1602 3899,1605 3898,1609 3898,1612 3909,1623 4246,1623 4246,1611 4247,1606 4247,1603 4248,1600 4247,1596 4247,1592 4247,1584 4247,1581 4248,1578 4247,1570 4246,1564 4249,1558 4248,1552 4247,1548 4245,1538 4247,1535 4246,1520">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31047_1"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31048" ulx="4247" uly="1520" lrx="4374" lry="1614" points="4247,1520 4248,1529 4246,1541 4249,1544 4247,1548 4248,1552 4249,1558 4247,1562 4247,1568 4248,1579 4248,1583 4248,1587 4247,1592 4247,1596 4248,1600 4247,1603 4247,1606 4247,1610 4247,1614 4374,1614 4387,1596 4388,1586 4387,1582 4373,1559 4374,1552 4375,1547 4375,1544 4375,1541 4375,1538 4374,1520">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31048_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31048_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31048_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31048_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31048_5"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31048_6"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31048_7"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31048_8"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31049">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31049_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31049_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31049_3"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_Psautiers_col_Psautiers_141_1_8" ulx="2965" uly="1640" lrx="4351" lry="1750">
+                        <zone type="word" xml:id="zone-w_Psautiers_31050" ulx="2965" uly="1644" lrx="3765" lry="1749" points="2965,1644 2963,1647 2966,1651 2966,1655 2964,1687 2965,1690 2964,1718 2965,1722 2964,1727 2963,1738 2963,1742 2965,1746 2965,1749 3765,1749 3764,1746 3766,1742 3765,1738 3764,1733 3764,1729 3765,1725 3764,1722 3764,1719 3764,1715 3765,1694 3759,1686 3764,1678 3765,1644">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31050_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31050_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31050_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31050_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31050_5"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31050_6"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31050_7"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31050_8"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31051" ulx="3766" uly="1646" lrx="3998" lry="1750" points="3766,1646 3765,1672 3759,1686 3766,1694 3766,1700 3765,1712 3766,1715 3766,1719 3764,1722 3765,1725 3764,1729 3764,1733 3768,1740 3764,1744 3766,1748 3766,1750 3998,1750 3997,1745 3998,1735 4000,1727 3999,1724 3999,1720 3998,1717 3999,1713 3998,1646">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31051_1"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31052" ulx="3999" uly="1640" lrx="4351" lry="1740" points="3999,1640 4000,1648 4000,1663 4000,1687 4000,1717 4000,1727 3999,1740 4351,1740 4354,1737 4343,1725 4344,1721 4343,1717 4340,1713 4344,1706 4345,1695 4341,1689 4358,1669 4352,1659 4352,1654 4351,1640">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31052_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31052_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31052_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31052_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31052_5"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31053">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31053_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31053_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31053_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31053_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31053_5"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31053_6"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31053_7"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31053_8"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_Psautiers_col_Psautiers_141_1_9" ulx="2962" uly="1768" lrx="4406" lry="1877">
+                        <zone type="word" xml:id="zone-w_Psautiers_31054" ulx="2962" uly="1768" lrx="3557" lry="1877" points="2962,1768 2961,1775 2962,1778 2961,1811 2955,1822 2957,1826 2958,1830 2954,1842 2955,1848 2959,1856 2959,1859 2960,1867 2962,1877 3557,1877 3557,1867 3556,1864 3556,1859 3556,1856 3557,1852 3557,1840 3556,1835 3556,1831 3555,1827 3555,1823 3556,1816 3556,1799 3558,1792 3557,1768">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31054_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31054_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31054_3"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31055" ulx="3558" uly="1783" lrx="3625" lry="1877" points="3558,1783 3557,1796 3557,1814 3557,1818 3555,1823 3555,1827 3556,1831 3556,1835 3557,1840 3557,1852 3559,1860 3557,1863 3557,1871 3558,1877 3625,1877 3625,1872 3627,1866 3631,1861 3626,1855 3627,1852 3627,1848 3625,1844 3626,1841 3626,1824 3625,1820 3627,1816 3626,1812 3624,1809 3624,1804 3624,1786 3625,1783">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31055_1"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31056" ulx="3626" uly="1769" lrx="4059" lry="1877" points="3626,1769 3625,1800 3624,1804 3628,1810 3626,1814 3626,1817 3627,1848 3627,1852 3626,1855 3631,1861 3627,1866 3626,1871 3626,1877 4059,1877 4058,1873 4059,1868 4060,1863 4063,1860 4062,1856 4059,1853 4061,1850 4060,1840 4059,1808 4063,1801 4059,1794 4063,1786 4061,1783 4062,1779 4059,1769">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31056_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31056_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31056_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31056_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31056_5"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31056_6"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31057" ulx="4060" uly="1774" lrx="4406" lry="1874" points="4060,1774 4063,1781 4062,1784 4061,1789 4060,1793 4063,1802 4061,1805 4060,1811 4059,1839 4059,1848 4061,1851 4062,1856 4063,1860 4060,1863 4060,1867 4061,1873 4060,1874 4406,1874 4405,1835 4405,1813 4406,1774">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31057_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31057_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31057_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31057_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31057_5"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31057_6"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31057_7"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_Psautiers_col_Psautiers_141_1_10" ulx="3288" uly="1887" lrx="4430" lry="2002">
+                        <zone type="word" xml:id="zone-w_Psautiers_31058" ulx="3288" uly="1887" lrx="4430" lry="2002" points="3288,1887 3287,1894 3288,1898 3287,1908 3287,1927 3288,1931 3287,1936 3289,1940 3287,1943 3287,1946 3287,1954 3287,1966 3287,1972 3288,1976 3289,1989 3293,1994 3289,1999 3288,2002 4430,2002 4429,2001 4431,1993 4429,1955 4431,1952 4430,1947 4431,1944 4429,1940 4431,1936 4431,1931 4431,1911 4429,1906 4430,1887">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31058_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31058_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31058_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31058_4"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_Psautiers_col_Psautiers_141_1_11" ulx="2965" uly="2016" lrx="4358" lry="2130">
+                        <zone type="word" xml:id="zone-w_Psautiers_31059" ulx="2965" uly="2016" lrx="3109" lry="2110" points="2965,2016 2964,2052 2964,2055 2964,2069 2966,2084 2967,2091 2965,2094 2967,2097 2965,2101 2964,2105 2964,2109 2965,2110 3109,2110 3107,2107 3109,2102 3108,2097 3106,2094 3108,2086 3108,2081 3108,2077 3109,2070 3107,2066 3109,2062 3107,2058 3111,2051 3109,2047 3119,2035 3112,2026 3109,2016">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31059_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31059_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31060" ulx="3110" uly="2016" lrx="3620" lry="2121" points="3110,2016 3112,2026 3119,2035 3110,2046 3111,2051 3107,2058 3111,2065 3109,2071 3111,2075 3109,2083 3110,2088 3111,2095 3108,2100 3108,2103 3107,2106 3110,2109 3106,2114 3110,2119 3110,2121 3620,2121 3619,2120 3625,2114 3621,2109 3622,2106 3623,2102 3620,2097 3620,2093 3620,2089 3621,2086 3620,2064 3621,2055 3623,2052 3622,2048 3621,2045 3619,2028 3619,2025 3620,2016">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31060_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31060_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31060_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31060_4"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31061" ulx="3621" uly="2029" lrx="3923" lry="2130" points="3621,2029 3620,2039 3623,2047 3621,2050 3621,2055 3621,2065 3622,2087 3622,2100 3622,2106 3621,2109 3626,2114 3622,2118 3621,2123 3621,2127 3621,2130 3923,2130 3923,2118 3922,2115 3928,2106 3926,2100 3928,2095 3925,2090 3927,2087 3926,2081 3927,2075 3928,2072 3923,2062 3924,2055 3924,2039 3923,2036 3924,2033 3923,2029">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31061_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31061_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31061_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31061_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31061_5"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31061_6"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31061_7"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31061_8"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31062" ulx="3924" uly="2036" lrx="4104" lry="2130" points="3924,2036 3925,2039 3925,2058 3926,2061 3928,2066 3928,2072 3927,2075 3926,2081 3927,2087 3925,2090 3928,2095 3926,2100 3928,2106 3928,2110 3925,2114 3923,2119 3924,2130 4104,2130 4104,2129 4103,2124 4103,2121 4105,2114 4104,2109 4104,2104 4102,2098 4103,2093 4101,2087 4103,2084 4101,2081 4103,2077 4101,2073 4101,2070 4103,2063 4103,2060 4106,2057 4106,2052 4103,2039 4104,2036">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31062_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31062_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31062_3"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31063" ulx="4105" uly="2036" lrx="4358" lry="2130" points="4105,2036 4104,2048 4106,2052 4106,2057 4106,2060 4103,2063 4103,2067 4105,2071 4103,2076 4105,2081 4102,2090 4104,2095 4102,2099 4105,2106 4105,2112 4104,2116 4103,2120 4104,2123 4105,2129 4105,2130 4358,2130 4360,2127 4359,2123 4357,2113 4360,2109 4359,2103 4354,2097 4358,2090 4360,2086 4359,2081 4359,2065 4358,2061 4359,2057 4357,2048 4358,2043 4359,2039 4358,2036">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31063_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31063_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31063_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31063_4"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_Psautiers_col_Psautiers_141_1_12" ulx="2968" uly="2142" lrx="4363" lry="2256">
+                        <zone type="word" xml:id="zone-w_Psautiers_31064" ulx="2968" uly="2142" lrx="3301" lry="2247" points="2968,2142 2967,2146 2967,2152 2967,2162 2967,2168 2967,2175 2967,2183 2967,2192 2967,2198 2967,2207 2967,2210 2967,2213 2967,2224 2968,2227 2967,2237 2968,2247 3301,2247 3301,2243 3304,2236 3303,2225 3302,2218 3301,2213 3301,2209 3303,2205 3302,2200 3302,2196 3300,2191 3301,2187 3304,2182 3302,2176 3301,2148 3303,2144 3301,2142">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31064_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31064_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31064_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31064_4"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31065" ulx="3302" uly="2156" lrx="3533" lry="2254" points="3302,2156 3303,2180 3302,2185 3303,2190 3301,2194 3301,2198 3304,2208 3302,2212 3301,2221 3303,2225 3304,2236 3306,2240 3306,2249 3302,2254 3533,2254 3533,2250 3532,2245 3534,2241 3533,2234 3532,2231 3534,2196 3533,2191 3531,2187 3532,2183 3533,2156">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31065_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31065_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31065_3"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31066" ulx="3534" uly="2150" lrx="3867" lry="2252" points="3534,2150 3534,2152 3533,2166 3533,2182 3533,2185 3534,2190 3532,2193 3534,2197 3533,2209 3533,2222 3533,2225 3532,2231 3535,2237 3534,2243 3534,2246 3534,2250 3534,2252 3867,2252 3867,2250 3866,2246 3865,2243 3868,2239 3866,2232 3865,2224 3864,2221 3866,2217 3865,2202 3865,2197 3867,2189 3867,2186 3870,2182 3868,2179 3867,2150">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31066_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31066_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31066_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31066_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31066_5"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31066_6"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31067" ulx="3868" uly="2159" lrx="4013" lry="2256" points="3868,2159 3867,2167 3867,2176 3870,2182 3868,2186 3866,2196 3867,2199 3865,2203 3866,2217 3864,2221 3865,2224 3866,2232 3868,2237 3866,2243 3868,2247 3868,2251 3868,2256 4013,2256 4012,2241 4013,2234 4016,2230 4013,2225 4015,2219 4015,2214 4012,2204 4013,2201 4014,2188 4013,2182 4011,2178 4016,2167 4015,2162 4013,2159">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31067_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31067_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31068" ulx="4014" uly="2159" lrx="4186" lry="2256" points="4014,2159 4015,2162 4016,2167 4014,2179 4013,2183 4015,2204 4014,2208 4015,2214 4015,2219 4014,2225 4016,2230 4014,2234 4016,2246 4014,2250 4014,2256 4186,2256 4186,2246 4186,2243 4191,2237 4191,2233 4187,2226 4186,2218 4187,2211 4189,2207 4187,2204 4189,2200 4188,2196 4186,2190 4186,2186 4187,2178 4186,2174 4189,2170 4185,2162 4186,2159">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31068_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31068_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31068_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31068_4"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31069" ulx="4187" uly="2159" lrx="4363" lry="2253" points="4187,2159 4189,2170 4186,2175 4188,2196 4189,2200 4187,2204 4189,2207 4187,2211 4189,2217 4187,2221 4187,2224 4191,2233 4191,2237 4187,2242 4187,2253 4363,2253 4363,2246 4353,2235 4354,2231 4352,2222 4350,2218 4351,2215 4353,2211 4349,2206 4349,2200 4350,2197 4353,2192 4353,2189 4353,2185 4351,2182 4354,2178 4351,2174 4352,2171 4363,2159">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31069_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31069_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31069_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31069_4"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_Psautiers_col_Psautiers_141_1_13" ulx="2973" uly="2271" lrx="4379" lry="2387">
+                        <zone type="word" xml:id="zone-w_Psautiers_31070" ulx="2973" uly="2287" lrx="3380" lry="2385" points="2973,2287 2972,2353 2974,2359 2972,2365 2971,2368 2971,2374 2973,2377 2973,2381 2973,2385 3380,2385 3380,2383 3381,2379 3378,2370 3379,2366 3378,2362 3377,2353 3378,2349 3380,2344 3378,2340 3379,2335 3380,2330 3380,2324 3382,2321 3379,2315 3380,2287">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31070_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31070_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31070_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31070_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31070_5"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31070_6"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31070_7"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31070_8"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31070_9"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31071" ulx="3381" uly="2271" lrx="3661" lry="2370" points="3381,2271 3380,2303 3382,2315 3382,2321 3380,2331 3379,2335 3378,2340 3380,2344 3378,2349 3377,2353 3378,2362 3379,2366 3381,2370 3661,2370 3664,2367 3663,2364 3662,2361 3664,2354 3664,2350 3662,2339 3660,2335 3661,2330 3662,2326 3662,2312 3662,2307 3661,2273 3661,2271">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31071_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31071_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31071_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31071_4"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31072" ulx="3662" uly="2271" lrx="4073" lry="2386" points="3662,2271 3662,2273 3663,2304 3664,2311 3661,2318 3662,2322 3663,2327 3663,2334 3663,2349 3664,2352 3662,2361 3663,2364 3669,2371 3663,2378 3662,2386 4073,2386 4072,2385 4073,2377 4076,2373 4073,2367 4071,2363 4075,2357 4073,2353 4075,2350 4075,2344 4075,2329 4073,2323 4073,2319 4073,2314 4074,2308 4074,2304 4072,2279 4073,2271">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31072_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31072_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31072_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31072_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31072_5"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31072_6"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31072_7"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31072_8"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31072_9"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31073" ulx="4074" uly="2292" lrx="4379" lry="2387" points="4074,2292 4075,2303 4075,2329 4075,2344 4075,2351 4075,2358 4071,2363 4073,2367 4076,2373 4074,2377 4074,2387 4379,2387 4378,2334 4378,2331 4380,2312 4378,2295 4379,2292">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31073_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31073_2"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_Psautiers_col_Psautiers_141_1_14" ulx="2974" uly="2406" lrx="4427" lry="2508">
+                        <zone type="word" xml:id="zone-w_Psautiers_31074" ulx="2974" uly="2413" lrx="3243" lry="2507" points="2974,2413 2973,2504 2974,2507 3243,2507 3242,2502 3244,2498 3243,2483 3243,2479 3242,2474 3242,2470 3243,2462 3242,2458 3244,2415 3243,2413">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31074_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31074_3"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31075" ulx="3244" uly="2408" lrx="3523" lry="2508" points="3244,2408 3243,2452 3244,2458 3244,2463 3244,2467 3242,2474 3245,2479 3243,2495 3245,2499 3243,2502 3244,2505 3244,2508 3523,2508 3524,2505 3523,2494 3522,2485 3522,2481 3523,2464 3523,2459 3523,2455 3519,2447 3522,2442 3524,2433 3523,2430 3522,2426 3523,2408">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31075_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31075_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31075_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31075_4"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31076" ulx="3524" uly="2406" lrx="4145" lry="2508" points="3524,2406 3525,2426 3524,2430 3523,2438 3522,2442 3524,2445 3522,2449 3524,2452 3524,2455 3524,2459 3524,2464 3525,2488 3525,2505 3524,2508 4145,2508 4151,2500 4150,2496 4146,2490 4146,2485 4145,2469 4146,2465 4146,2457 4147,2452 4146,2446 4146,2443 4145,2430 4144,2426 4145,2406">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31076_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31076_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31076_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31076_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31076_5"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31076_6"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31076_7"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31076_8"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31076_9"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31076_10"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31077" ulx="4146" uly="2410" lrx="4427" lry="2505" points="4146,2410 4145,2425 4145,2434 4146,2438 4146,2442 4145,2447 4147,2451 4146,2457 4146,2465 4147,2493 4150,2496 4151,2500 4146,2505 4427,2505 4427,2488 4428,2482 4427,2469 4426,2465 4426,2448 4426,2439 4427,2410">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31077_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31077_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31077_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31077_4"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_Psautiers_col_Psautiers_141_1_15" ulx="2968" uly="2532" lrx="4406" lry="2645">
+                        <zone type="word" xml:id="zone-w_Psautiers_31078" ulx="2968" uly="2532" lrx="3087" lry="2626" points="2968,2532 2967,2577 2967,2600 2967,2608 2967,2617 2968,2626 3087,2626 3086,2625 3088,2622 3087,2615 3085,2611 3088,2607 3087,2595 3085,2591 3087,2585 3087,2579 3088,2575 3087,2571 3088,2567 3088,2562 3087,2554 3086,2551 3088,2540 3087,2532">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31078_1"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31079" ulx="3088" uly="2532" lrx="3349" lry="2628" points="3088,2532 3087,2537 3087,2543 3088,2546 3087,2578 3087,2586 3086,2592 3088,2596 3087,2600 3088,2603 3088,2607 3086,2610 3088,2613 3086,2617 3088,2621 3089,2627 3088,2628 3349,2628 3350,2626 3348,2623 3348,2609 3349,2602 3348,2594 3348,2589 3346,2584 3340,2576 3348,2568 3349,2532">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31079_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31079_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31079_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31079_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31079_5"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31080" ulx="3350" uly="2535" lrx="4248" lry="2645" points="3350,2535 3352,2546 3350,2550 3349,2558 3347,2569 3340,2576 3351,2589 3350,2593 3350,2597 3349,2604 3349,2612 3350,2616 3348,2623 3350,2627 3349,2632 3349,2637 3350,2640 3350,2645 4248,2645 4248,2642 4249,2638 4253,2633 4250,2629 4247,2616 4250,2607 4250,2604 4251,2601 4247,2595 4248,2586 4251,2579 4254,2575 4250,2569 4247,2563 4247,2557 4247,2554 4248,2551 4248,2546 4247,2540 4248,2535">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31080_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31080_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31080_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31080_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31080_5"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31080_6"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31080_7"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31080_8"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31080_9"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31080_10"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31080_11"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31080_12"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31081" ulx="4249" uly="2538" lrx="4406" lry="2632" points="4249,2538 4250,2563 4250,2570 4254,2575 4251,2579 4251,2582 4249,2587 4251,2592 4251,2596 4250,2604 4250,2607 4249,2613 4252,2618 4248,2623 4250,2629 4249,2632 4406,2632 4403,2628 4404,2622 4402,2617 4403,2613 4402,2605 4402,2599 4402,2593 4399,2588 4402,2580 4404,2576 4406,2569 4404,2561 4405,2548 4406,2538">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31081_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31081_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31081_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31081_4"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_Psautiers_col_Psautiers_141_1_16" ulx="2983" uly="2661" lrx="4419" lry="2773">
+                        <zone type="word" xml:id="zone-w_Psautiers_31082" ulx="2983" uly="2668" lrx="3151" lry="2762" points="2983,2668 2984,2679 2984,2698 2983,2702 2983,2705 2984,2719 2981,2723 2983,2730 2981,2740 2983,2744 2982,2753 2983,2757 2984,2761 2983,2762 3151,2762 3150,2759 3151,2753 3154,2749 3149,2742 3152,2736 3152,2729 3152,2703 3150,2687 3151,2684 3151,2679 3151,2675 3152,2671 3151,2668">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31082_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31082_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31082_3"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31083" ulx="3152" uly="2663" lrx="3256" lry="2762" points="3152,2663 3151,2666 3152,2670 3151,2684 3151,2689 3151,2697 3151,2701 3151,2707 3151,2712 3151,2717 3151,2722 3154,2732 3152,2736 3151,2739 3156,2746 3151,2752 3151,2759 3152,2762 3256,2762 3258,2760 3258,2757 3256,2754 3256,2749 3256,2746 3257,2742 3255,2738 3257,2735 3255,2732 3257,2721 3256,2717 3256,2714 3256,2710 3255,2701 3251,2696 3255,2689 3257,2685 3255,2681 3256,2673 3254,2667 3256,2663">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31083_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31083_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31083_3"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31084" ulx="3257" uly="2661" lrx="3330" lry="2757" points="3257,2661 3254,2665 3257,2675 3257,2683 3251,2696 3257,2703 3256,2713 3257,2716 3257,2722 3256,2729 3258,2756 3257,2757 3330,2757 3331,2753 3330,2750 3328,2746 3329,2730 3330,2714 3328,2710 3329,2706 3326,2700 3327,2695 3329,2688 3330,2682 3331,2677 3333,2674 3331,2669 3329,2666 3330,2663 3330,2661">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31084_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31084_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31084_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31084_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31084_5"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31084_6"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31084_7"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31085" ulx="3331" uly="2661" lrx="3359" lry="2755" points="3331,2661 3332,2664 3331,2667 3333,2674 3331,2677 3331,2682 3327,2695 3326,2700 3329,2706 3331,2711 3330,2721 3329,2729 3328,2746 3330,2750 3331,2754 3331,2755 3359,2755 3359,2754 3360,2748 3359,2740 3360,2734 3361,2731 3360,2726 3360,2722 3359,2719 3359,2711 3362,2707 3359,2698 3360,2694 3358,2690 3360,2672 3360,2663 3359,2661">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31085_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31085_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31086" ulx="3360" uly="2661" lrx="3550" lry="2773" points="3360,2661 3360,2663 3359,2667 3359,2675 3359,2697 3361,2706 3360,2710 3359,2719 3362,2732 3360,2736 3359,2743 3362,2746 3367,2755 3363,2759 3362,2763 3360,2767 3360,2773 3550,2773 3550,2762 3551,2758 3552,2752 3550,2748 3551,2744 3549,2723 3550,2703 3550,2700 3549,2697 3550,2690 3551,2687 3551,2663 3550,2661">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31086_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31086_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31086_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31086_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31086_5"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31086_6"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31086_7"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31086_8"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31086_9"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31087" ulx="3551" uly="2679" lrx="3574" lry="2773" points="3551,2679 3552,2685 3552,2697 3550,2702 3552,2713 3549,2722 3551,2726 3552,2746 3552,2752 3551,2758 3550,2767 3551,2773 3574,2773 3573,2763 3573,2748 3574,2739 3576,2735 3576,2731 3575,2722 3568,2714 3573,2705 3574,2679">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31087_1"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31088" ulx="3575" uly="2677" lrx="3679" lry="2773" points="3575,2677 3576,2691 3574,2704 3575,2707 3568,2714 3575,2722 3574,2727 3576,2731 3576,2735 3576,2742 3575,2746 3576,2767 3575,2773 3679,2773 3679,2772 3680,2768 3684,2763 3682,2759 3685,2756 3680,2749 3680,2746 3680,2739 3678,2735 3682,2729 3679,2721 3680,2716 3682,2712 3679,2705 3682,2699 3681,2695 3681,2692 3681,2688 3681,2684 3680,2680 3679,2677">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31088_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31088_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31088_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31088_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31088_5"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31088_6"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31089" ulx="3680" uly="2671" lrx="3751" lry="2770" points="3680,2671 3682,2674 3680,2680 3681,2684 3681,2688 3681,2692 3681,2695 3682,2699 3680,2703 3682,2706 3680,2710 3680,2715 3682,2729 3680,2733 3681,2743 3679,2748 3685,2756 3682,2759 3684,2763 3680,2768 3680,2770 3751,2770 3750,2767 3751,2763 3748,2757 3751,2754 3750,2750 3751,2745 3753,2740 3752,2735 3751,2732 3752,2727 3751,2720 3752,2716 3752,2708 3751,2701 3749,2697 3754,2691 3753,2687 3752,2679 3751,2671">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31089_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31089_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31089_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31089_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31089_5"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31090" ulx="3752" uly="2667" lrx="3796" lry="2765" points="3752,2667 3751,2674 3751,2682 3753,2687 3754,2691 3751,2698 3752,2704 3752,2708 3751,2712 3753,2720 3751,2723 3751,2732 3753,2738 3752,2742 3754,2749 3751,2754 3752,2758 3753,2762 3752,2765 3796,2765 3795,2762 3800,2754 3802,2750 3803,2746 3803,2742 3799,2736 3798,2733 3798,2729 3799,2725 3796,2716 3797,2711 3799,2707 3796,2704 3797,2700 3796,2695 3791,2690 3795,2682 3796,2667">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31090_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31090_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31090_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31090_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31090_5"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31090_6"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31091" ulx="3797" uly="2667" lrx="3834" lry="2761" points="3797,2667 3796,2683 3792,2687 3797,2693 3799,2696 3797,2700 3799,2707 3797,2711 3798,2715 3797,2721 3799,2725 3798,2729 3798,2733 3799,2736 3803,2742 3803,2746 3802,2750 3800,2754 3797,2761 3834,2761 3834,2760 3833,2757 3834,2737 3835,2732 3834,2702 3832,2698 3835,2688 3834,2667">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31091_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31091_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31091_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31091_4"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31092" ulx="3835" uly="2664" lrx="3852" lry="2758" points="3835,2664 3835,2758 3852,2758 3851,2735 3852,2724 3852,2720 3850,2716 3853,2710 3852,2707 3854,2704 3852,2698 3851,2689 3852,2664">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31092_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31092_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31093" ulx="3853" uly="2663" lrx="4012" lry="2757" points="3853,2663 3852,2680 3854,2692 3853,2695 3854,2704 3855,2715 3853,2719 3852,2731 3852,2754 3853,2757 4012,2757 4012,2756 4015,2752 4014,2748 4012,2738 4012,2734 4014,2730 4013,2726 4012,2722 4014,2713 4015,2710 4015,2706 4015,2702 4014,2698 4013,2695 4013,2674 4012,2663">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31093_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31093_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31093_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31093_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31093_5"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31093_6"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31093_7"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31093_8"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31094" ulx="4013" uly="2664" lrx="4087" lry="2760" points="4013,2664 4012,2678 4013,2682 4014,2695 4014,2700 4015,2704 4014,2707 4014,2713 4013,2719 4013,2723 4014,2729 4013,2735 4013,2739 4014,2747 4015,2752 4011,2757 4013,2760 4087,2760 4087,2756 4088,2752 4090,2747 4090,2743 4088,2738 4091,2732 4091,2728 4089,2725 4090,2722 4089,2716 4090,2713 4087,2704 4090,2700 4089,2697 4088,2693 4088,2690 4088,2687 4088,2669 4087,2664">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31094_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31094_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31094_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31094_4"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31095" ulx="4045" uly="2665" lrx="4093" lry="2761" points="4045,2665 4047,2676 4044,2681 4047,2687 4044,2690 4046,2694 4046,2698 4046,2703 4047,2710 4045,2714 4045,2719 4046,2725 4045,2729 4046,2736 4045,2745 4048,2750 4045,2754 4048,2758 4045,2761 4093,2761 4089,2757 4092,2752 4093,2709 4093,2703 4089,2698 4093,2690 4093,2686 4093,2681 4091,2677 4092,2673 4093,2665">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31095_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31095_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31095_3"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31096" ulx="4045" uly="2665" lrx="4093" lry="2761" points="4045,2665 4047,2676 4044,2681 4047,2687 4044,2690 4046,2694 4046,2698 4046,2703 4047,2710 4045,2714 4045,2719 4046,2725 4045,2729 4046,2736 4045,2745 4048,2750 4045,2754 4048,2758 4045,2761 4093,2761 4089,2757 4092,2752 4093,2709 4093,2703 4089,2698 4093,2690 4093,2686 4093,2681 4091,2677 4092,2673 4093,2665">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31096_1"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31097" ulx="4088" uly="2666" lrx="4151" lry="2761" points="4088,2666 4087,2671 4087,2679 4087,2682 4087,2685 4087,2691 4087,2694 4089,2698 4090,2701 4087,2704 4087,2708 4090,2713 4089,2716 4090,2722 4089,2725 4091,2728 4091,2732 4088,2738 4090,2743 4090,2747 4088,2752 4087,2760 4088,2761 4151,2761 4149,2759 4150,2754 4152,2750 4152,2746 4152,2735 4151,2715 4159,2705 4157,2698 4155,2693 4152,2684 4151,2668 4151,2666">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31097_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31097_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31098" ulx="4152" uly="2668" lrx="4260" lry="2762" points="4152,2668 4153,2683 4156,2688 4154,2691 4157,2698 4159,2705 4154,2711 4151,2719 4151,2722 4151,2736 4151,2742 4153,2745 4151,2751 4153,2755 4152,2762 4260,2762 4260,2758 4260,2751 4261,2748 4261,2743 4261,2740 4260,2736 4262,2727 4262,2724 4261,2720 4262,2712 4260,2703 4264,2698 4260,2690 4261,2681 4260,2668">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31098_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31098_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31098_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31098_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31098_5"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31098_6"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31098_7"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31098_8"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31098_9"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31098_10"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31099" ulx="4261" uly="2668" lrx="4419" lry="2762" points="4261,2668 4262,2695 4264,2698 4261,2701 4264,2704 4261,2708 4261,2720 4262,2724 4262,2727 4261,2762 4419,2762 4418,2761 4418,2729 4419,2723 4421,2719 4418,2711 4418,2702 4420,2695 4420,2687 4419,2682 4421,2678 4418,2674 4418,2670 4419,2668">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31099_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31099_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31099_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31099_4"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_Psautiers_col_Psautiers_141_1_17" ulx="2964" uly="2793" lrx="4412" lry="2901">
+                        <zone type="word" xml:id="zone-w_Psautiers_31100" ulx="2964" uly="2797" lrx="3168" lry="2891" points="2964,2797 2963,2826 2964,2891 3168,2891 3170,2887 3167,2880 3167,2876 3167,2868 3168,2864 3168,2861 3167,2857 3167,2849 3167,2838 3167,2821 3167,2812 3168,2797">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31100_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31100_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31100_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31100_4"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31101" ulx="3169" uly="2799" lrx="3302" lry="2898" points="3169,2799 3168,2808 3168,2815 3168,2833 3168,2873 3168,2878 3172,2882 3169,2885 3169,2890 3169,2898 3302,2898 3301,2895 3302,2892 3303,2888 3306,2884 3301,2877 3301,2860 3301,2847 3301,2842 3309,2831 3307,2826 3303,2818 3302,2799">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31101_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31101_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31101_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31101_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31101_5"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31102" ulx="3303" uly="2804" lrx="3309" lry="2899" points="3303,2804 3304,2808 3304,2823 3307,2826 3309,2831 3303,2840 3303,2844 3302,2855 3304,2861 3304,2872 3304,2876 3306,2884 3303,2888 3304,2894 3303,2898 3303,2899 3309,2899 3309,2897 3309,2893 3306,2887 3308,2883 3306,2874 3305,2867 3303,2863 3304,2857 3304,2847 3306,2841 3306,2836 3309,2831 3308,2826 3308,2823 3309,2804">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31102_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31102_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31103" ulx="3310" uly="2806" lrx="3536" lry="2901" points="3310,2806 3311,2816 3308,2822 3310,2825 3311,2829 3308,2833 3306,2836 3306,2841 3304,2847 3304,2857 3303,2863 3305,2867 3306,2874 3308,2883 3306,2887 3309,2893 3310,2897 3310,2901 3536,2901 3536,2889 3537,2885 3542,2879 3537,2870 3536,2866 3535,2862 3535,2858 3537,2847 3536,2834 3536,2830 3535,2826 3534,2823 3535,2818 3535,2812 3537,2808 3536,2806">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31103_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31103_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31103_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31103_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31103_5"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31103_6"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31104" ulx="3537" uly="2795" lrx="3781" lry="2901" points="3537,2795 3536,2815 3534,2823 3535,2826 3537,2830 3538,2847 3538,2875 3542,2879 3537,2885 3537,2901 3781,2901 3781,2887 3781,2882 3787,2874 3782,2868 3781,2851 3783,2847 3782,2842 3781,2839 3783,2830 3781,2826 3783,2820 3781,2817 3784,2805 3784,2801 3781,2795">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31104_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31104_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31104_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31104_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31104_5"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31105" ulx="3782" uly="2795" lrx="3812" lry="2889" points="3782,2795 3784,2801 3784,2805 3782,2818 3782,2822 3782,2826 3783,2830 3781,2844 3783,2847 3783,2856 3783,2860 3782,2866 3787,2874 3784,2880 3782,2886 3782,2889 3812,2889 3822,2879 3822,2875 3818,2868 3817,2863 3817,2859 3813,2850 3814,2846 3815,2842 3816,2833 3813,2828 3815,2824 3812,2820 3821,2810 3816,2800 3812,2795">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31105_1"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31106" ulx="3813" uly="2795" lrx="3860" lry="2889" points="3813,2795 3817,2799 3821,2810 3813,2819 3815,2824 3813,2828 3816,2833 3815,2842 3814,2846 3813,2850 3817,2859 3817,2863 3818,2868 3822,2875 3823,2879 3813,2889 3860,2889 3860,2879 3864,2874 3859,2864 3860,2854 3862,2850 3862,2847 3863,2843 3859,2832 3858,2829 3860,2826 3858,2823 3861,2817 3856,2810 3859,2807 3860,2795">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31106_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31106_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31107" ulx="3861" uly="2794" lrx="4041" lry="2889" points="3861,2794 3860,2801 3856,2810 3861,2817 3858,2823 3861,2829 3860,2832 3863,2843 3862,2847 3862,2850 3863,2853 3861,2857 3859,2866 3863,2870 3864,2874 3861,2877 3862,2880 3861,2885 3861,2889 4041,2889 4041,2886 4037,2880 4044,2870 4043,2866 4043,2862 4044,2858 4042,2854 4044,2850 4044,2844 4041,2840 4043,2832 4044,2826 4039,2820 4040,2817 4040,2811 4040,2808 4041,2803 4038,2798 4041,2794">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31107_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31107_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31107_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31107_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31107_5"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31107_6"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31107_7"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31107_8"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31108" ulx="4042" uly="2794" lrx="4045" lry="2888" points="4042,2794 4041,2799 4042,2803 4043,2808 4040,2811 4040,2817 4039,2820 4044,2826 4043,2832 4042,2840 4045,2843 4043,2847 4042,2855 4044,2859 4044,2863 4044,2870 4037,2880 4041,2886 4042,2888 4045,2888 4045,2886 4047,2882 4045,2874 4047,2870 4048,2867 4048,2864 4046,2856 4047,2850 4048,2847 4046,2839 4044,2831 4045,2826 4041,2819 4040,2816 4045,2807 4043,2803 4044,2797 4045,2794">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31108_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31108_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31109" ulx="4045" uly="2794" lrx="4151" lry="2895" points="4045,2794 4044,2797 4043,2803 4045,2807 4040,2816 4041,2819 4045,2826 4044,2831 4046,2839 4048,2847 4047,2850 4046,2856 4048,2864 4048,2867 4047,2870 4045,2874 4047,2882 4045,2886 4045,2890 4045,2895 4151,2895 4152,2888 4152,2885 4151,2881 4154,2877 4152,2866 4150,2863 4152,2848 4151,2845 4152,2841 4152,2834 4149,2827 4151,2823 4149,2819 4152,2815 4150,2805 4152,2797 4151,2794">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31109_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31109_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31110" ulx="4152" uly="2797" lrx="4278" lry="2896" points="4152,2797 4151,2800 4153,2805 4152,2808 4151,2813 4151,2817 4151,2823 4152,2826 4153,2831 4151,2846 4152,2850 4152,2857 4153,2863 4154,2877 4152,2880 4152,2884 4151,2887 4151,2890 4152,2896 4278,2896 4279,2888 4278,2883 4280,2879 4278,2876 4277,2873 4278,2858 4279,2853 4278,2839 4278,2835 4279,2830 4282,2827 4279,2824 4280,2819 4280,2814 4278,2809 4279,2805 4277,2799 4278,2797">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31110_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31110_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31110_3"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-wp_Psautiers_31111_1" ulx="4278" uly="2793" lrx="4412" lry="2891" points="4278,2793 4277,2799 4279,2805 4278,2809 4280,2814 4280,2819 4279,2824 4282,2827 4279,2830 4278,2835 4278,2839 4279,2853 4278,2858 4277,2873 4278,2876 4280,2879 4278,2883 4279,2888 4278,2891 4412,2891 4411,2863 4412,2848 4411,2845 4411,2823 4411,2815 4412,2803 4411,2800 4412,2793">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31111_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31111_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31111_3"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_Psautiers_col_Psautiers_141_1_18" ulx="2964" uly="2931" lrx="4388" lry="3025">
+                        <zone type="word" xml:id="zone-wp_Psautiers_31111_2" ulx="2964" uly="2931" lrx="3141" lry="3025" points="2964,2931 2963,2958 2962,2964 2963,2969 2964,2972 2962,2976 2964,2982 2964,2986 2964,3025 3141,3025 3140,3015 3141,3008 3146,3002 3143,2998 3142,2988 3142,2985 3144,2980 3142,2976 3144,2972 3142,2969 3144,2966 3147,2961 3149,2957 3140,2946 3141,2931">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31111_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31111_5"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31111_6"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31112" ulx="3142" uly="2931" lrx="3438" lry="3025" points="3142,2931 3143,2946 3149,2957 3147,2961 3144,2966 3142,2969 3144,2972 3142,2976 3144,2980 3142,2985 3143,2998 3146,3002 3143,3006 3142,3010 3142,3025 3438,3025 3437,3023 3438,3007 3437,3003 3436,3000 3437,2995 3439,2992 3435,2986 3437,2978 3439,2974 3437,2966 3437,2935 3438,2931">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31112_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31112_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31112_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31112_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31112_5"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31112_6"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31112_7"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31113" ulx="3439" uly="2931" lrx="3516" lry="3025" points="3439,2931 3440,2935 3438,2961 3437,2965 3437,2970 3439,2974 3439,2978 3439,2985 3438,2995 3436,3002 3439,3006 3440,3018 3440,3024 3439,3025 3516,3025 3517,3015 3517,3012 3517,3009 3516,3004 3520,2999 3518,2996 3517,2992 3516,2983 3517,2975 3518,2971 3520,2967 3517,2962 3516,2931">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31113_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31113_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31113_3"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31114" ulx="3517" uly="2931" lrx="3770" lry="3025" points="3517,2931 3516,2960 3519,2965 3518,2970 3517,2974 3520,2980 3520,2984 3517,2989 3518,2996 3520,2999 3517,3003 3516,3007 3517,3025 3770,3025 3769,3019 3770,3001 3769,2997 3770,2978 3771,2974 3771,2968 3770,2964 3771,2959 3770,2953 3771,2949 3770,2931">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31114_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31114_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31114_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31114_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31114_5"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31114_6"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31114_7"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31114_8"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31115" ulx="3771" uly="2931" lrx="3801" lry="3025" points="3771,2931 3772,2948 3771,2951 3773,2955 3771,2959 3770,2965 3771,2969 3770,2977 3771,2991 3769,2997 3771,3001 3770,3016 3768,3022 3771,3025 3801,3025 3800,3024 3801,3012 3800,3008 3798,3004 3801,3001 3799,2998 3797,2993 3798,2987 3800,2974 3799,2970 3802,2965 3802,2959 3801,2956 3802,2949 3801,2931">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31115_1"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31116" ulx="3802" uly="2931" lrx="3927" lry="3025" points="3802,2931 3803,2951 3801,2962 3799,2971 3799,2977 3798,2986 3797,2994 3801,3001 3798,3004 3802,3010 3800,3023 3802,3025 3927,3025 3928,3019 3928,3015 3928,3009 3928,3006 3927,3003 3932,2994 3928,2983 3928,2976 3928,2972 3928,2969 3925,2963 3928,2960 3925,2957 3928,2951 3928,2945 3927,2931">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31116_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31116_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31117" ulx="3928" uly="2931" lrx="4052" lry="3025" points="3928,2931 3929,2944 3927,2948 3927,2953 3938,2966 3929,2975 3928,2982 3932,2994 3927,3003 3927,3007 3927,3013 3929,3024 3928,3025 4052,3025 4052,2978 4054,2974 4053,2970 4052,2961 4052,2957 4055,2950 4053,2946 4052,2931">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31117_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31117_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31117_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31117_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31117_5"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31118" ulx="4053" uly="2931" lrx="4098" lry="3025" points="4053,2931 4052,2941 4054,2944 4055,2948 4054,2954 4055,2957 4053,2961 4052,2971 4054,2974 4053,3025 4098,3025 4097,3015 4098,3002 4096,2998 4098,2995 4097,2987 4097,2976 4097,2973 4097,2968 4099,2961 4098,2952 4097,2949 4098,2931">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31118_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31118_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31118_3"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31119" ulx="4099" uly="2931" lrx="4148" lry="3025" points="4099,2931 4098,2945 4098,2949 4099,2952 4100,2957 4098,2964 4097,2968 4097,2973 4097,2976 4097,2987 4099,2998 4099,3025 4148,3025 4147,3004 4148,3000 4144,2994 4143,2990 4146,2983 4145,2978 4145,2974 4147,2965 4150,2962 4150,2959 4149,2952 4148,2931">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31119_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31119_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31120" ulx="4149" uly="2931" lrx="4201" lry="3025" points="4149,2931 4148,2934 4148,2939 4150,2959 4150,2962 4148,2967 4145,2978 4146,2983 4143,2990 4144,2994 4149,3001 4148,3005 4149,3025 4201,3025 4200,3017 4201,3002 4207,2994 4202,2987 4202,2984 4204,2980 4201,2975 4202,2972 4203,2969 4200,2964 4200,2959 4201,2948 4202,2945 4200,2938 4201,2931">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31120_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31120_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31120_3"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31121" ulx="4201" uly="2931" lrx="4313" lry="3025" points="4201,2931 4200,2938 4202,2945 4201,2948 4200,2959 4200,2964 4203,2969 4202,2972 4201,2975 4204,2980 4202,2984 4202,2987 4207,2994 4201,3002 4200,3017 4201,3025 4313,3025 4313,3022 4314,3019 4312,3015 4314,3012 4312,3009 4313,3000 4314,2997 4312,2993 4316,2988 4314,2983 4311,2977 4315,2971 4317,2967 4314,2960 4313,2957 4308,2949 4312,2944 4313,2931">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31121_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31121_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31121_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31121_4"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31122" ulx="4314" uly="2931" lrx="4388" lry="3025" points="4314,2931 4313,2943 4308,2949 4314,2958 4317,2967 4315,2971 4311,2977 4314,2982 4316,2988 4313,2992 4313,3000 4312,3007 4314,3011 4313,3015 4315,3021 4314,3024 4314,3025 4388,3025 4387,2984 4388,2961 4386,2957 4387,2944 4388,2931">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31122_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31122_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31122_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31122_4"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_Psautiers_col_Psautiers_141_1_19" ulx="2945" uly="3004" lrx="4444" lry="3107">
+                        <zone type="word" xml:id="zone-w_Psautiers_31123" ulx="2945" uly="3004" lrx="3086" lry="3098" points="2945,3004 2944,3080 2944,3095 2945,3098 3086,3098 3086,3090 3088,3085 3087,3080 3087,3072 3087,3068 3084,3062 3085,3058 3085,3039 3085,3035 3085,3015 3087,3006 3086,3004">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31123_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31123_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31123_3"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31124" ulx="3087" uly="3005" lrx="3158" lry="3099" points="3087,3005 3088,3008 3088,3026 3088,3031 3087,3034 3087,3037 3086,3041 3086,3049 3085,3057 3088,3060 3086,3065 3086,3075 3088,3086 3087,3090 3088,3097 3087,3099 3158,3099 3158,3080 3158,3076 3156,3073 3157,3070 3158,3067 3157,3063 3158,3057 3158,3054 3158,3048 3156,3045 3159,3039 3159,3007 3158,3005">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31124_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31124_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31124_3"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31125" ulx="3159" uly="3005" lrx="3301" lry="3100" points="3159,3005 3160,3008 3158,3040 3156,3045 3160,3050 3158,3054 3158,3057 3157,3063 3158,3067 3157,3070 3159,3074 3158,3077 3160,3087 3159,3100 3301,3100 3300,3095 3301,3077 3301,3073 3302,3070 3304,3066 3304,3062 3302,3058 3304,3054 3300,3049 3301,3046 3299,3042 3302,3038 3300,3033 3301,3027 3298,3023 3298,3018 3300,3007 3301,3005">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31125_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31125_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31125_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31125_4"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31126" ulx="3302" uly="3006" lrx="3443" lry="3101" points="3302,3006 3302,3008 3299,3019 3298,3023 3302,3028 3301,3031 3303,3035 3299,3042 3302,3047 3304,3054 3302,3058 3304,3062 3304,3066 3302,3070 3302,3074 3301,3095 3302,3101 3443,3101 3442,3086 3442,3063 3444,3058 3444,3054 3442,3035 3442,3029 3444,3025 3442,3021 3442,3008 3443,3006">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31126_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31126_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31126_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31126_4"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31127" ulx="3444" uly="3007" lrx="3586" lry="3102" points="3444,3007 3443,3009 3442,3022 3444,3026 3443,3031 3445,3050 3445,3055 3446,3062 3444,3066 3444,3102 3586,3102 3585,3097 3586,3072 3587,3067 3589,3064 3586,3058 3586,3053 3595,3042 3594,3038 3586,3027 3585,3023 3586,3007">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31127_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31127_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31127_3"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31128" ulx="3587" uly="3008" lrx="3841" lry="3103" points="3587,3008 3588,3024 3594,3039 3595,3043 3588,3054 3587,3058 3590,3064 3587,3067 3587,3072 3586,3076 3587,3103 3841,3103 3841,3076 3839,3072 3842,3067 3842,3064 3841,3061 3842,3053 3842,3047 3841,3044 3839,3039 3836,3035 3840,3031 3840,3027 3841,3008">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31128_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31128_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31128_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31128_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31128_5"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31128_6"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31128_7"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31128_8"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31129" ulx="3842" uly="3009" lrx="3898" lry="3104" points="3842,3009 3841,3027 3836,3035 3843,3042 3843,3064 3847,3071 3841,3079 3842,3104 3898,3104 3893,3098 3894,3094 3897,3089 3898,3075 3900,3071 3899,3067 3900,3064 3900,3053 3900,3049 3898,3040 3901,3034 3901,3029 3905,3024 3900,3019 3898,3009">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31129_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31129_3"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31130" ulx="3899" uly="3010" lrx="3965" lry="3104" points="3899,3010 3900,3017 3905,3024 3901,3029 3901,3034 3900,3037 3899,3041 3900,3049 3900,3053 3900,3064 3901,3071 3898,3075 3897,3089 3894,3094 3893,3098 3899,3104 3965,3104 3964,3071 3968,3067 3965,3055 3966,3049 3967,3045 3970,3039 3966,3032 3965,3010">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31130_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31130_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31130_3"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31131" ulx="3966" uly="3010" lrx="4152" lry="3106" points="3966,3010 3967,3028 3967,3034 3970,3039 3967,3045 3966,3049 3967,3058 3966,3061 3968,3067 3965,3071 3965,3088 3965,3100 3966,3106 4152,3106 4148,3102 4150,3097 4152,3094 4152,3087 4151,3084 4152,3075 4150,3071 4151,3064 4152,3053 4148,3044 4152,3037 4152,3032 4151,3028 4151,3025 4152,3021 4151,3016 4152,3010">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31131_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31131_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31131_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31131_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31131_5"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31131_6"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31131_7"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31132" ulx="4153" uly="3012" lrx="4168" lry="3106" points="4153,3012 4152,3023 4152,3037 4152,3041 4153,3045 4152,3053 4151,3064 4150,3071 4152,3075 4153,3082 4152,3087 4152,3094 4150,3097 4150,3101 4153,3105 4153,3106 4168,3106 4174,3098 4167,3087 4169,3082 4168,3074 4169,3068 4168,3062 4168,3056 4166,3052 4167,3047 4168,3044 4161,3036 4167,3029 4167,3025 4168,3018 4169,3015 4168,3012">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31132_1"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31133" ulx="4169" uly="3012" lrx="4244" lry="3106" points="4169,3012 4168,3018 4168,3021 4170,3024 4170,3028 4167,3032 4169,3036 4170,3041 4168,3045 4168,3048 4169,3053 4168,3056 4168,3062 4169,3066 4168,3077 4168,3086 4174,3098 4169,3106 4244,3106 4247,3101 4245,3097 4243,3072 4243,3063 4245,3060 4243,3057 4247,3051 4243,3045 4243,3040 4243,3023 4243,3020 4243,3015 4244,3012">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31133_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31133_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31133_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31133_4"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31134" ulx="4245" uly="3012" lrx="4340" lry="3107" points="4245,3012 4244,3017 4244,3040 4243,3045 4247,3051 4247,3055 4247,3062 4245,3066 4246,3079 4245,3084 4244,3088 4246,3098 4244,3105 4245,3107 4340,3107 4339,3103 4339,3095 4339,3088 4339,3085 4340,3074 4339,3070 4341,3066 4341,3060 4339,3055 4341,3051 4339,3046 4340,3042 4340,3038 4337,3033 4337,3030 4341,3025 4340,3012">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31134_1"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31135" ulx="4341" uly="3013" lrx="4444" lry="3107" points="4341,3013 4340,3031 4337,3034 4340,3038 4341,3042 4342,3046 4341,3050 4339,3055 4341,3059 4340,3063 4342,3071 4340,3095 4340,3099 4339,3103 4341,3107 4444,3107 4444,3103 4445,3094 4445,3089 4443,3015 4444,3013">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31135_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31135_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-wp_Psautiers_31136_1">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31136_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31136_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31136_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31136_4"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_Psautiers_col_Psautiers_141_1_20" ulx="2968" uly="3074" lrx="4471" lry="3185">
+                        <zone type="word" xml:id="zone-wp_Psautiers_31136_2" ulx="2968" uly="3090" lrx="3103" lry="3185" points="2968,3090 2967,3112 2967,3119 2968,3185 3103,3185 3101,3183 3104,3179 3103,3167 3104,3164 3104,3157 3102,3151 3104,3148 3103,3145 3103,3139 3105,3135 3102,3127 3103,3123 3104,3117 3103,3113 3105,3109 3100,3103 3104,3099 3103,3090">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31136_5"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31136_6"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31136_7"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31136_8"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31137" ulx="3104" uly="3089" lrx="3180" lry="3184" points="3104,3089 3103,3096 3104,3099 3100,3103 3108,3111 3106,3114 3103,3122 3103,3126 3103,3130 3105,3135 3103,3145 3105,3148 3105,3151 3103,3159 3103,3181 3104,3184 3180,3184 3180,3181 3179,3176 3179,3155 3180,3139 3180,3135 3181,3131 3178,3127 3178,3122 3179,3117 3180,3089">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31137_1"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31138" ulx="3181" uly="3085" lrx="3501" lry="3183" points="3181,3085 3180,3087 3180,3114 3180,3118 3178,3122 3181,3127 3181,3131 3180,3140 3179,3155 3181,3159 3180,3176 3180,3182 3181,3183 3501,3183 3501,3180 3503,3175 3500,3168 3501,3156 3509,3146 3504,3136 3504,3133 3502,3130 3500,3126 3502,3123 3496,3113 3500,3108 3500,3087 3501,3085">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31138_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31138_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31139" ulx="3502" uly="3084" lrx="3615" lry="3179" points="3502,3084 3501,3108 3496,3114 3502,3123 3500,3126 3502,3130 3504,3133 3504,3136 3509,3146 3502,3155 3509,3171 3502,3179 3615,3179 3617,3175 3616,3165 3615,3157 3615,3153 3618,3146 3618,3137 3615,3127 3616,3123 3612,3118 3614,3112 3616,3103 3615,3084">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31139_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31139_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31139_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31139_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31139_5"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31139_6"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31139_7"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31139_8"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31139_9"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31140" ulx="3616" uly="3082" lrx="3763" lry="3178" points="3616,3082 3615,3111 3615,3114 3612,3118 3616,3123 3615,3127 3618,3137 3618,3146 3615,3153 3615,3158 3617,3175 3616,3178 3763,3178 3762,3177 3763,3166 3766,3161 3765,3157 3763,3140 3764,3133 3767,3129 3765,3126 3768,3122 3764,3116 3763,3082">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31140_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31140_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31140_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31140_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31140_5"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31141" ulx="3764" uly="3081" lrx="3860" lry="3176" points="3764,3081 3765,3115 3768,3122 3765,3126 3767,3129 3764,3133 3765,3157 3766,3161 3766,3167 3764,3171 3764,3176 3860,3176 3859,3170 3862,3162 3860,3153 3861,3147 3858,3143 3859,3138 3860,3135 3860,3131 3860,3126 3858,3123 3861,3120 3858,3117 3858,3112 3859,3099 3859,3093 3860,3081">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31141_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31141_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31141_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31141_4"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31142" ulx="3861" uly="3080" lrx="3941" lry="3175" points="3861,3080 3860,3096 3860,3100 3860,3115 3861,3120 3858,3123 3860,3126 3860,3131 3861,3136 3861,3140 3862,3143 3862,3162 3861,3175 3941,3175 3941,3154 3942,3151 3938,3147 3941,3143 3940,3137 3942,3127 3942,3113 3941,3108 3944,3103 3940,3091 3940,3088 3941,3080">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31142_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31142_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31142_3"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31143" ulx="3942" uly="3079" lrx="3973" lry="3174" points="3942,3079 3943,3102 3942,3107 3943,3119 3941,3124 3941,3130 3940,3138 3942,3142 3938,3147 3942,3151 3942,3156 3942,3174 3973,3174 3974,3137 3974,3130 3973,3079">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31143_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31143_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31143_4"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31144" ulx="3973" uly="3078" lrx="4071" lry="3173" points="3973,3078 3974,3130 3974,3137 3973,3173 4071,3173 4070,3167 4072,3151 4072,3148 4071,3143 4070,3137 4072,3127 4071,3123 4072,3120 4070,3117 4070,3114 4072,3096 4070,3087 4071,3078">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31144_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31144_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31145" ulx="4072" uly="3076" lrx="4231" lry="3172" points="4072,3076 4071,3080 4071,3083 4073,3087 4071,3090 4071,3099 4072,3103 4072,3111 4072,3115 4071,3119 4072,3122 4073,3137 4071,3146 4074,3157 4071,3161 4072,3167 4072,3172 4231,3172 4232,3171 4232,3167 4232,3155 4230,3150 4232,3146 4230,3139 4232,3134 4229,3127 4232,3123 4232,3118 4231,3115 4233,3111 4232,3107 4227,3102 4231,3093 4230,3090 4232,3086 4232,3082 4231,3076">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31145_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31145_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31145_3"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31146" ulx="4232" uly="3074" lrx="4471" lry="3170" points="4232,3074 4233,3087 4231,3096 4228,3102 4232,3107 4233,3111 4231,3116 4230,3130 4232,3134 4230,3139 4232,3146 4232,3151 4232,3155 4231,3160 4231,3164 4232,3170 4471,3170 4472,3169 4472,3163 4472,3159 4472,3155 4471,3146 4472,3143 4470,3136 4472,3131 4472,3112 4472,3109 4470,3096 4472,3081 4472,3077 4471,3074">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31146_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31146_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31147">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31147_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31147_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31147_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31147_4"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31148">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31148_1"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_Psautiers_col_Psautiers_141_1_21" ulx="2955" uly="3166" lrx="4402" lry="3268">
+                        <zone type="word" xml:id="zone-w_Psautiers_31149" ulx="2955" uly="3172" lrx="3319" lry="3268" points="2955,3172 2954,3264 2955,3268 3319,3268 3320,3261 3320,3257 3319,3252 3320,3246 3319,3240 3319,3235 3323,3224 3321,3218 3320,3206 3323,3201 3318,3192 3320,3186 3319,3172">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31149_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31149_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31149_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31149_4"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31150" ulx="3320" uly="3172" lrx="3383" lry="3266" points="3320,3172 3319,3175 3319,3183 3319,3193 3323,3201 3320,3206 3321,3218 3323,3224 3319,3234 3319,3239 3321,3252 3319,3255 3319,3265 3320,3266 3383,3266 3384,3264 3384,3261 3377,3253 3384,3242 3386,3238 3383,3232 3381,3228 3383,3225 3381,3222 3383,3217 3381,3213 3383,3208 3381,3204 3383,3199 3382,3195 3383,3172">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31150_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31150_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31151" ulx="3384" uly="3169" lrx="3812" lry="3266" points="3384,3169 3384,3171 3383,3179 3383,3183 3383,3187 3382,3195 3384,3198 3381,3204 3383,3208 3381,3213 3383,3217 3382,3221 3383,3224 3384,3228 3383,3233 3386,3238 3384,3242 3383,3245 3380,3252 3384,3256 3384,3260 3383,3263 3384,3266 3812,3266 3812,3264 3811,3261 3811,3246 3811,3243 3812,3240 3811,3237 3812,3233 3811,3230 3812,3226 3811,3220 3812,3214 3813,3210 3813,3206 3811,3201 3812,3194 3808,3186 3811,3182 3812,3169">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31151_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31151_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31151_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31151_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31151_5"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31151_6"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31151_7"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31152" ulx="3813" uly="3168" lrx="3959" lry="3263" points="3813,3168 3812,3181 3808,3186 3813,3194 3814,3203 3812,3207 3812,3215 3811,3223 3813,3226 3811,3230 3812,3233 3811,3237 3812,3240 3811,3243 3811,3246 3813,3250 3812,3262 3813,3263 3959,3263 3959,3259 3958,3256 3960,3235 3959,3232 3963,3227 3960,3220 3961,3215 3961,3211 3961,3207 3963,3201 3952,3188 3960,3176 3959,3170 3959,3168">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31152_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31152_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31152_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31152_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31152_5"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31153" ulx="3960" uly="3167" lrx="4157" lry="3262" points="3960,3167 3959,3175 3952,3188 3963,3201 3961,3207 3961,3211 3961,3215 3960,3220 3963,3227 3959,3231 3959,3237 3960,3262 4157,3262 4158,3261 4157,3258 4156,3253 4157,3236 4155,3232 4157,3223 4159,3219 4156,3215 4158,3208 4157,3195 4158,3191 4156,3176 4157,3167">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31153_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31153_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31153_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31153_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31153_5"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31153_6"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31153_7"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31153_8"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31154" ulx="4157" uly="3167" lrx="4240" lry="3261" points="4157,3167 4156,3176 4158,3191 4157,3195 4158,3208 4156,3215 4159,3219 4157,3223 4155,3232 4157,3236 4156,3253 4157,3258 4157,3261 4240,3261 4239,3260 4239,3257 4239,3251 4239,3243 4239,3238 4240,3227 4238,3219 4239,3216 4239,3210 4241,3207 4241,3204 4239,3199 4240,3195 4240,3190 4239,3185 4239,3178 4240,3167">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31154_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31154_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31154_3"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31155" ulx="4241" uly="3166" lrx="4268" lry="3260" points="4241,3166 4242,3192 4239,3199 4241,3205 4241,3208 4240,3211 4239,3215 4238,3219 4241,3229 4240,3241 4240,3246 4241,3252 4241,3258 4241,3260 4268,3260 4267,3255 4268,3250 4270,3247 4267,3239 4267,3222 4269,3217 4270,3211 4269,3201 4268,3198 4269,3194 4268,3190 4277,3180 4268,3166">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31155_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31155_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-wp_Psautiers_31156_1" ulx="4269" uly="3166" lrx="4402" lry="3260" points="4269,3166 4268,3170 4277,3180 4270,3187 4269,3192 4268,3198 4269,3202 4271,3206 4270,3210 4269,3218 4270,3235 4269,3246 4269,3250 4271,3256 4269,3260 4402,3260 4401,3259 4401,3239 4401,3232 4403,3223 4402,3218 4401,3212 4402,3195 4400,3191 4401,3184 4402,3173 4400,3169 4402,3166">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31156_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31156_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31156_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31156_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31156_5"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_Psautiers_col_Psautiers_141_1_22" ulx="2973" uly="3230" lrx="4384" lry="3337">
+                        <zone type="word" xml:id="zone-wp_Psautiers_31156_2" ulx="2973" uly="3230" lrx="3524" lry="3329" points="2973,3230 2973,3329 3524,3329 3525,3328 3525,3303 3521,3293 3523,3281 3524,3277 3522,3270 3524,3266 3520,3260 3523,3254 3525,3246 3525,3243 3525,3240 3524,3230">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31156_6"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31156_7"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31156_8"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31157" ulx="3525" uly="3235" lrx="3697" lry="3331" points="3525,3235 3526,3252 3520,3260 3524,3266 3522,3270 3524,3277 3523,3281 3521,3293 3525,3304 3525,3308 3525,3331 3697,3331 3697,3305 3697,3302 3695,3298 3697,3290 3696,3286 3697,3278 3695,3274 3697,3270 3696,3266 3696,3261 3698,3256 3696,3245 3697,3237 3697,3235">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31157_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31157_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31157_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31157_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31157_5"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31157_6"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31158" ulx="3698" uly="3237" lrx="3721" lry="3331" points="3698,3237 3697,3258 3699,3264 3696,3267 3698,3270 3698,3275 3698,3279 3698,3282 3696,3286 3698,3290 3697,3295 3697,3301 3698,3304 3698,3308 3699,3320 3698,3331 3721,3331 3721,3312 3721,3309 3721,3297 3719,3294 3720,3289 3721,3284 3719,3279 3720,3274 3721,3263 3722,3260 3717,3255 3721,3248 3721,3244 3719,3240 3721,3237">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31158_1"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31159" ulx="3722" uly="3237" lrx="3954" lry="3333" points="3722,3237 3721,3241 3721,3246 3717,3255 3722,3260 3722,3264 3723,3275 3721,3278 3721,3283 3720,3289 3719,3294 3721,3297 3722,3309 3722,3312 3722,3333 3954,3333 3953,3311 3954,3301 3957,3297 3956,3293 3955,3288 3954,3285 3954,3279 3955,3276 3956,3273 3954,3268 3955,3265 3953,3256 3954,3237">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31159_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31159_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31159_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31159_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31159_5"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31159_6"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31160" ulx="3955" uly="3239" lrx="4155" lry="3335" points="3955,3239 3956,3266 3958,3271 3955,3274 3955,3278 3954,3287 3954,3290 3956,3293 3957,3297 3955,3300 3955,3305 3956,3311 3955,3335 4155,3335 4154,3322 4155,3304 4154,3301 4160,3294 4157,3287 4155,3283 4157,3279 4156,3275 4160,3270 4160,3264 4156,3259 4154,3248 4155,3239">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31160_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31160_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31160_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31160_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31160_5"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31160_6"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31161" ulx="4156" uly="3241" lrx="4384" lry="3337" points="4156,3241 4155,3256 4160,3264 4160,3270 4156,3275 4157,3279 4157,3287 4160,3294 4156,3299 4156,3304 4155,3320 4155,3335 4156,3337 4384,3337 4384,3330 4383,3326 4384,3322 4383,3315 4386,3311 4383,3304 4386,3299 4385,3292 4385,3288 4383,3283 4384,3279 4383,3274 4385,3265 4383,3259 4383,3250 4384,3241">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31161_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31161_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31161_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31161_4"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_Psautiers_col_Psautiers_141_1_23" ulx="2973" uly="3309" lrx="4070" lry="3411">
+                        <zone type="word" xml:id="zone-w_Psautiers_31162" ulx="2973" uly="3309" lrx="3374" lry="3406" points="2973,3309 2972,3369 2973,3406 3374,3406 3374,3386 3374,3381 3376,3376 3376,3372 3374,3369 3374,3359 3377,3351 3375,3341 3373,3336 3375,3319 3375,3311 3374,3309">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31162_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31162_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31162_3"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31163" ulx="3375" uly="3312" lrx="3659" lry="3408" points="3375,3312 3375,3314 3374,3320 3374,3343 3375,3346 3377,3350 3375,3358 3374,3368 3377,3371 3375,3374 3375,3383 3375,3389 3374,3402 3376,3407 3375,3408 3659,3408 3658,3379 3658,3375 3659,3371 3656,3359 3658,3352 3658,3348 3660,3335 3659,3332 3660,3326 3659,3312">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31163_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31163_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31163_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31163_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31163_5"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31163_6"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31163_7"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31164" ulx="3660" uly="3314" lrx="3937" lry="3410" points="3660,3314 3661,3327 3660,3331 3659,3347 3658,3350 3656,3359 3660,3371 3659,3380 3660,3384 3660,3410 3937,3410 3937,3385 3935,3381 3937,3373 3936,3370 3938,3366 3936,3359 3937,3351 3936,3347 3937,3314">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31164_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31164_2"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31164_3"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31164_4"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31164_5"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31164_6"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31164_7"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31164_8"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31164_9"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Psautiers_31165" ulx="3938" uly="3317" lrx="4070" lry="3411" points="3938,3317 3937,3343 3937,3351 3937,3355 3936,3359 3938,3364 3937,3370 3937,3375 3939,3381 3937,3410 3938,3411 4070,3411 4070,3410 4071,3406 4069,3389 4070,3376 4070,3373 4069,3369 4070,3317">
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31165_1"/>
+                            <zone type="character" xml:id="zone-c_w_Psautiers_31165_2"/>
+                        </zone>
+                    </zone>
+                </zone>
+            </zone>
+        </surface>
+    </facsimile>
+</TEI>

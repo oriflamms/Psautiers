@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Allograph links</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Oriflamms Project, http://oriflamms.hypotheses.org</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Created by Oriflamms.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <listPrefixDef>
+                <prefixDef ident="txt" matchPattern="([a-z]+)" replacementPattern="../texts/Psautiers-c.xml#$1"/>
+                <prefixDef ident="lgly" matchPattern="([a-z]+)" replacementPattern="../ontologies/Psautiers_ontology.xml#$1"/>
+                <prefixDef ident="ggly" matchPattern="([a-z]+)" replacementPattern="../../charDecl.xml#$1"/>
+            </listPrefixDef>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <ab>
+                <linkGrp type="words"/>
+            </ab>
+        </body>
+    </text>
+</TEI>
